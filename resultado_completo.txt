@@ -764,7 +764,7 @@ Candidato: jessica_castro.pdf
 | Conhecimento de gestão de projetos                 | 85           | 18       | 15.3            |
 | Domínio dos artefatos de projetos                  | 80           | 15       | 12.0            |
 | Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
-| Domínio de ferramentas de análise                  | 65           | 12       | 7.8             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 65           | 12       | 7.8             |
 | Capacidade de elaborar dashboards, relatórios e KPIs| 75           | 12       | 9.0             |
 | Comunicação e negociação com stakeholders          | 90           | 10       | 9.0             |
 | Condução de reunião e apresentações                | 85           | 7        | 5.95            |
