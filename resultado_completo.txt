@@ -1,303 +1,137 @@
-Lendo Bruna_alves.pdf...
-Lendo Clovis_miranda.pdf...
-Lendo Danilo_costa.pdf...
-Lendo Elen_aquino.pdf...
-Lendo Eliane_sousa.pdf...
-Lendo Geison_Garcia.pdf...
+Lendo CV Leticia_Gupy.pdf...
 Lendo Giovana_roberto.pdf...
-Lendo Jackson_giovanni.pdf...
-Lendo Mauro_artioli.pdf...
-Lendo Renan_berto.pdf...
-Lendo Thiago_vinicius.pdf...
-Lendo Tiago_dias.pdf...
-Lendo aline_micheli.pdf...
-Lendo cinthia_nobrega.pdf...
-Lendo claudiana_rodrigues.pdf...
-Lendo fabiana_gonçalves.pdf...
-Lendo gabriela_mellatti.pdf...
-Lendo hugo_felix.pdf...
-Lendo jessica_castro.pdf...
-Lendo jonas_ferreira.pdf...
+Lendo Juliana_Ianibelli.pdf...
+Lendo aline_jordao.pdf...
+Lendo angelo_gonçalves.pdf...
+Lendo caio_feitosa.pdf...
+Lendo caique_leocadio.pdf...
+Lendo eduardo_costa.pdf...
+Lendo eliane_bertao.pdf...
+Lendo erik_spadotti.pdf...
+Lendo felipe_pereira.pdf...
+Lendo flavia_almeida.pdf...
+Lendo flavio_silva.pdf...
+Lendo jessicca_castro.pdf...
+Lendo jonathan_faber.pdf...
+Lendo jose_silva.pdf...
+Lendo julia_matos.pdf...
+Lendo luene_ossuna.pdf...
+Lendo luiz_dias.pdf...
 Lendo melissa_nobre.pdf...
-Lendo raphael_gomes.pdf...
-Lendo yasmim_aparecida.pdf...
-Atenção: Foram encontrados 23 currículos na pasta.
+Lendo patrick_silva.pdf...
+Lendo pedro_damaceno.pdf...
+Lendo rafaela_serrano.pdf...
+Lendo raphael_almeida.pdf...
+Lendo raphael_fulini.pdf...
+Lendo ricardo_hiju.pdf...
+Lendo rudnei_silva.pdf...
+Lendo victoria_mazei.pdf...
+Lendo vinicius_silva.pdf...
+Lendo wellington_barros.pdf...
+Lendo yorhan_olimpio.pdf...
+Atenção: Foram encontrados 31 currículos na pasta.
 
-Enviando currículo 1/23 (Bruna_alves.pdf) para análise...
+Enviando currículo 1/31 (CV Leticia_Gupy.pdf) para análise...
 
-Enviando currículo 2/23 (Clovis_miranda.pdf) para análise...
+Enviando currículo 2/31 (Giovana_roberto.pdf) para análise...
 
-Enviando currículo 3/23 (Danilo_costa.pdf) para análise...
+Enviando currículo 3/31 (Juliana_Ianibelli.pdf) para análise...
 
-Enviando currículo 4/23 (Elen_aquino.pdf) para análise...
+Enviando currículo 4/31 (aline_jordao.pdf) para análise...
 
-Enviando currículo 5/23 (Eliane_sousa.pdf) para análise...
+Enviando currículo 5/31 (angelo_gonçalves.pdf) para análise...
 
-Enviando currículo 6/23 (Geison_Garcia.pdf) para análise...
+Enviando currículo 6/31 (caio_feitosa.pdf) para análise...
 
-Enviando currículo 7/23 (Giovana_roberto.pdf) para análise...
+Enviando currículo 7/31 (caique_leocadio.pdf) para análise...
 
-Enviando currículo 8/23 (Jackson_giovanni.pdf) para análise...
+Enviando currículo 8/31 (eduardo_costa.pdf) para análise...
 
-Enviando currículo 9/23 (Mauro_artioli.pdf) para análise...
+Enviando currículo 9/31 (eliane_bertao.pdf) para análise...
 
-Enviando currículo 10/23 (Renan_berto.pdf) para análise...
+Enviando currículo 10/31 (erik_spadotti.pdf) para análise...
 
-Enviando currículo 11/23 (Thiago_vinicius.pdf) para análise...
+Enviando currículo 11/31 (felipe_pereira.pdf) para análise...
 
-Enviando currículo 12/23 (Tiago_dias.pdf) para análise...
+Enviando currículo 12/31 (flavia_almeida.pdf) para análise...
 
-Enviando currículo 13/23 (aline_micheli.pdf) para análise...
+Enviando currículo 13/31 (flavio_silva.pdf) para análise...
 
-Enviando currículo 14/23 (cinthia_nobrega.pdf) para análise...
+Enviando currículo 14/31 (jessicca_castro.pdf) para análise...
 
-Enviando currículo 15/23 (claudiana_rodrigues.pdf) para análise...
+Enviando currículo 15/31 (jonathan_faber.pdf) para análise...
 
-Enviando currículo 16/23 (fabiana_gonçalves.pdf) para análise...
+Enviando currículo 16/31 (jose_silva.pdf) para análise...
 
-Enviando currículo 17/23 (gabriela_mellatti.pdf) para análise...
+Enviando currículo 17/31 (julia_matos.pdf) para análise...
 
-Enviando currículo 18/23 (hugo_felix.pdf) para análise...
+Enviando currículo 18/31 (luene_ossuna.pdf) para análise...
 
-Enviando currículo 19/23 (jessica_castro.pdf) para análise...
+Enviando currículo 19/31 (luiz_dias.pdf) para análise...
 
-Enviando currículo 20/23 (jonas_ferreira.pdf) para análise...
+Enviando currículo 20/31 (melissa_nobre.pdf) para análise...
 
-Enviando currículo 21/23 (melissa_nobre.pdf) para análise...
+Enviando currículo 21/31 (patrick_silva.pdf) para análise...
 
-Enviando currículo 22/23 (raphael_gomes.pdf) para análise...
+Enviando currículo 22/31 (pedro_damaceno.pdf) para análise...
 
-Enviando currículo 23/23 (yasmim_aparecida.pdf) para análise...
+Enviando currículo 23/31 (rafaela_serrano.pdf) para análise...
+
+Enviando currículo 24/31 (raphael_almeida.pdf) para análise...
+
+Enviando currículo 25/31 (raphael_fulini.pdf) para análise...
+
+Enviando currículo 26/31 (ricardo_hiju.pdf) para análise...
+
+Enviando currículo 27/31 (rudnei_silva.pdf) para análise...
+
+Enviando currículo 28/31 (victoria_mazei.pdf) para análise...
+
+Enviando currículo 29/31 (vinicius_silva.pdf) para análise...
+
+Enviando currículo 30/31 (wellington_barros.pdf) para análise...
+
+Enviando currículo 31/31 (yorhan_olimpio.pdf) para análise...
 
 === RESULTADO DA ANÁLISE COMPLETA ===
 
-Candidato: Bruna_alves.pdf
-### Análise do Currículo de Bruna Oliveira Alves
+Candidato: CV Leticia_Gupy.pdf
+### Análise do Currículo de Letícia Midori Yamamoto
 
 #### Tabela de Pontuação
 
 | Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
 |----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 85           | 18       | 15.3            |
-| Domínio dos artefatos de projetos                  | 80           | 15       | 12.0            |
-| Conhecimento em análise de dados                   | 75           | 12       | 9.0             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 70           | 12       | 8.4             |
+| Conhecimento de gestão de projetos                 | 75           | 18       | 13.5            |
+| Domínio dos artefatos de projetos                  | 70           | 15       | 10.5            |
+| Conhecimento em análise de dados                   | 80           | 12       | 9.6             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 75           | 12       | 9.0             |
 | Capacidade de elaborar dashboards, relatórios e KPIs| 70           | 12       | 8.4             |
-| Comunicação e negociação com stakeholders          | 80           | 10       | 8.0             |
-| Condução de reunião e apresentações                | 75           | 7        | 5.25            |
-| Certificações em gestão de projetos e analíticas   | 60           | 7        | 4.2             |
-| Habilidade em construção de material para apresentação| 80         | 7        | 5.6             |
-| **Pontuação Final**                                |              |          | **76.15**       |
-
-#### Principais Pontos Positivos
-- **Experiência em Gestão de Projetos**: Bruna possui experiência prática na condução de projetos de melhoria contínua e automação de processos, o que é altamente relevante para a vaga.
-- **Comunicação e Apresentações**: Demonstrou habilidade em criar materiais executivos e apresentar em fóruns de alto nível, o que é crucial para a comunicação com stakeholders.
-- **Reconhecimentos e Prêmios**: Recebeu prêmios por projetos desenvolvidos, indicando reconhecimento por suas contribuições significativas.
-
-#### Principais Lacunas
-- **Certificações**: Possui apenas a certificação Lean Six Sigma Yellow Belt, o que é menos robusto em comparação com certificações como PMP ou CAPM.
-- **Domínio de Ferramentas de Análise**: Embora tenha experiência com Excel e Power BI, seu nível é intermediário, o que pode ser uma área a ser desenvolvida para atender plenamente às exigências da vaga.
-
-#### Análise de Trajetória Profissional
-- **Cargo Atual**: Analista de Projetos Pl na Vivo Telefônica desde fevereiro de 2024.
-- **Tempo no Cargo Atual**: Aproximadamente 1 ano.
-- **Última Movimentação**: Movimentação lateral em outubro de 2024 dentro da mesma empresa.
-- **Evidência de Instabilidade**: Não há evidência significativa de instabilidade. As movimentações dentro da Vivo Telefônica parecem ser progressões naturais de carreira.
-- **Impacto na Aderência à Vaga**: A trajetória profissional de Bruna é estável e progressiva, o que sugere uma boa aderência à vaga, especialmente considerando sua experiência em projetos e reconhecimento por suas contribuições.
-
-### Resumo
-Bruna Oliveira Alves apresenta um perfil sólido para a vaga, com experiência relevante em gestão de projetos e habilidades de comunicação eficazes. Embora haja espaço para aprimoramento em certificações e domínio de ferramentas de análise, suas conquistas e estabilidade na carreira indicam um potencial significativo para atender às exigências da posição.
-
-Candidato: Clovis_miranda.pdf
-### Análise do Currículo de Clovis Miranda Felix da Silva
-
-#### Tabela de Pontuação
-
-| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
-|----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 85           | 18       | 15.3            |
-| Domínio dos artefatos de projetos                  | 80           | 15       | 12.0            |
-| Conhecimento em análise de dados                   | 60           | 12       | 7.2             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 50           | 12       | 6.0             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 55           | 12       | 6.6             |
-| Comunicação e negociação com stakeholders          | 75           | 10       | 7.5             |
-| Condução de reunião e apresentações                | 80           | 7        | 5.6             |
-| Certificações em gestão de projetos e analíticas   | 70           | 7        | 4.9             |
-| Habilidade em construção de material para apresentação| 70        | 7        | 4.9             |
-| **Pontuação Final**                                |              |          | **70.0**        |
-
-#### Principais Pontos Positivos
-- **Experiência em Gestão de Projetos**: Clovis possui uma sólida experiência em gestão de projetos, especialmente em metodologias ágeis, o que é altamente relevante para a vaga.
-- **Certificações**: Possui certificações em Scrum e Kanban, o que demonstra um compromisso com o desenvolvimento profissional contínuo.
-- **Comunicação e Apresentações**: Experiência em apresentar materiais para executivos, o que indica boas habilidades de comunicação e apresentação.
-
-#### Principais Lacunas
-- **Análise de Dados e Ferramentas**: O conhecimento em análise de dados e ferramentas como Excel e Power BI é limitado, o que pode ser uma desvantagem para a vaga que requer domínio dessas ferramentas.
-- **Elaboração de Dashboards e KPIs**: A experiência em criar dashboards e KPIs não é destacada, o que pode ser uma área de melhoria.
-
-#### Sinais de Instabilidade ou Padrão Atípico
-- **Tempo no Cargo Atual**: Clovis está no cargo atual de Analista de Projetos Sênior desde setembro de 2019, o que demonstra estabilidade.
-- **Movimentação Recente**: A última movimentação foi uma transferência lateral em maio de 2023 dentro da mesma empresa, o que não indica instabilidade.
-- **Histórico Profissional**: Não há sinais de alternância rápida entre áreas ou regressão de cargos. A trajetória é consistente com evolução de responsabilidades.
-
-#### Impacto na Aderência à Vaga
-- **Estabilidade**: A estabilidade no cargo atual e a experiência acumulada são pontos positivos para a aderência à vaga.
-- **Áreas de Melhoria**: A necessidade de aprimorar habilidades em análise de dados e ferramentas de visualização pode impactar a aderência, mas pode ser mitigada com treinamento adicional.
-
-### Resumo
-Clovis Miranda Felix da Silva apresenta um perfil sólido em gestão de projetos, especialmente em ambientes ágeis, com boas habilidades de comunicação e apresentação. No entanto, para se alinhar completamente com os requisitos da vaga, seria benéfico aprimorar suas habilidades em análise de dados e ferramentas de visualização como Excel e Power BI. A estabilidade em sua trajetória profissional é um ponto positivo que contribui para sua adequação à vaga.
-
-Candidato: Danilo_costa.pdf
-### Análise do Currículo de Danilo Costa
-
-#### Tabela de Pontuação
-
-| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
-|----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 50           | 18       | 9               |
-| Domínio dos artefatos de projetos                  | 40           | 15       | 6               |
-| Conhecimento em análise de dados                   | 30           | 12       | 3.6             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 60           | 12       | 7.2             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 30           | 12       | 3.6             |
-| Comunicação e negociação com stakeholders          | 40           | 10       | 4               |
-| Condução de reunião e apresentações                | 40           | 7        | 2.8             |
-| Certificações em gestão de projetos e analíticas   | 20           | 7        | 1.4             |
-| Habilidade em construção de material para apresentação| 40         | 7        | 2.8             |
-| **Pontuação Final**                                |              |          | **40.4**        |
-
-#### Principais Pontos Positivos
-- **Experiência Técnica**: Danilo possui uma sólida experiência técnica em telecomunicações, especialmente em projetos de redes, o que pode ser valioso para projetos técnicos específicos.
-- **Conhecimento em Excel Avançado**: O curso de Excel Avançado é um ponto positivo, indicando alguma habilidade em ferramentas de análise de dados.
-
-#### Principais Lacunas
-- **Falta de Experiência em Gestão de Projetos**: Embora tenha um curso básico de gestão de projetos, a experiência prática em gestão de projetos e uso de artefatos específicos é limitada.
-- **Análise de Dados e Ferramentas**: Não há menção ao uso de Power BI ou experiência prática significativa em análise de dados.
-- **Comunicação e Apresentações**: Não há evidências claras de habilidades em comunicação e negociação com stakeholders ou em condução de reuniões e apresentações.
-- **Certificações**: Ausência de certificações relevantes em gestão de projetos ou ferramentas analíticas.
-
-#### Sinais de Instabilidade ou Padrão Atípico
-- **Tempo no Cargo Atual**: Danilo está no cargo atual de Analista de Telecom Junior na Vivo desde março de 2020.
-- **Diferença de Tempo entre Movimentações**: A última movimentação foi em outubro de 2019, quando mudou de empresa (Trust IT para Vivo).
-- **Evidência de Instabilidade**: Não há evidências claras de instabilidade, mas a trajetória mostra uma alternância entre empresas com escopo similar sem evolução clara de responsabilidades.
-- **Impacto na Aderência à Vaga**: A falta de experiência em gestão de projetos e habilidades analíticas pode impactar negativamente a aderência à vaga, que requer competências específicas nessas áreas.
-
-### Tabela de Pontuação Final
-
-| Nome do Candidato | Pontuação Final |
-|-------------------|-----------------|
-| Danilo Costa      | 40.4            |
-
-Danilo Costa apresenta uma base técnica sólida, mas carece de experiência prática e certificações em gestão de projetos e análise de dados, o que pode limitar sua adequação à vaga.
-
-Candidato: Elen_aquino.pdf
-### Análise do Currículo de Ellen Aquíno
-
-#### Tabela de Pontuação
-
-| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
-|----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 70           | 18       | 12.6            |
-| Domínio dos artefatos de projetos                  | 65           | 15       | 9.75            |
-| Conhecimento em análise de dados                   | 60           | 12       | 7.2             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 50           | 12       | 6.0             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 55           | 12       | 6.6             |
-| Comunicação e negociação com stakeholders          | 70           | 10       | 7.0             |
-| Condução de reunião e apresentações                | 65           | 7        | 4.55            |
-| Certificações em gestão de projetos e analíticas   | 0            | 7        | 0.0             |
-| Habilidade em construção de material para apresentação| 70         | 7        | 4.9             |
-| **Pontuação Final**                                |              |          | **58.6**        |
-
-#### Principais Pontos Positivos
-- **Experiência em Gestão de Projetos**: Ellen possui experiência prática em gestão de projetos, especialmente em atualizações tecnológicas e melhorias de processos, o que é relevante para a vaga.
-- **Comunicação e Negociação**: Demonstrou boa capacidade de comunicação e interesse em interagir mais com stakeholders, o que é essencial para a função.
-- **Proatividade e Curiosidade**: Mostra interesse em evoluir na área de projetos, buscando maior protagonismo e envolvimento ativo.
-
-#### Principais Lacunas
-- **Certificações**: Não possui certificações em gestão de projetos ou ferramentas analíticas, que são diferenciais importantes para a vaga.
-- **Domínio de Ferramentas de Análise**: O conhecimento em Excel é intermediário e não há menção ao uso de Power BI, o que pode ser uma limitação para a função.
-- **Experiência em Projetos de Alta Complexidade**: A experiência relatada é em projetos contínuos e não em projetos de alta complexidade, o que pode ser uma área a desenvolver.
-
-#### Análise de Trajetória Profissional
-- **Cargo Atual**: Analista de Projetos Sênior na Telefônica Brasil S/A desde setembro de 2023.
-- **Última Movimentação**: Movimentação lateral em maio de 2024 dentro da mesma empresa.
-- **Evidência de Instabilidade**: Não há evidências significativas de instabilidade. A movimentação lateral recente pode indicar adaptação a novas responsabilidades ou reorganização interna.
-- **Impacto na Aderência à Vaga**: A trajetória profissional de Ellen mostra estabilidade e crescimento dentro da área de projetos, o que é positivo. No entanto, a falta de certificações e experiência em projetos de alta complexidade pode impactar sua aderência total à vaga.
-
-### Resumo
-Ellen Aquíno apresenta um perfil com potencial para a área de gestão de projetos, com experiência prática e boa comunicação. No entanto, para se alinhar completamente com a vaga, seria benéfico buscar certificações relevantes e desenvolver habilidades em ferramentas analíticas avançadas. Sua trajetória profissional é estável, mas a experiência em projetos de alta complexidade ainda é uma área a ser desenvolvida.
-
-Candidato: Eliane_sousa.pdf
-### Análise do Currículo de Eliane Sousa Bertao
-
-#### Tabela de Pontuação
-
-| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
-|----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 90           | 18       | 16.2            |
-| Domínio dos artefatos de projetos                  | 85           | 15       | 12.75           |
-| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 65           | 12       | 7.8             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 75           | 12       | 9.0             |
 | Comunicação e negociação com stakeholders          | 85           | 10       | 8.5             |
 | Condução de reunião e apresentações                | 80           | 7        | 5.6             |
-| Certificações em gestão de projetos e analíticas   | 90           | 7        | 6.3             |
-| Habilidade em construção de material para apresentação| 80        | 7        | 5.6             |
-| **Pontuação Final**                                |              |          | **80.15**       |
+| Certificações, MBA ou pós-graduação                | 90           | 7        | 6.3             |
+| Habilidade em construção de material para apresentação| 80         | 7        | 5.6             |
+| **Pontuação Final**                                |              |          | **76.0**        |
 
 #### Principais Pontos Positivos
-- **Experiência Sólida em Gestão de Projetos**: Eliane possui uma vasta experiência em gestão de projetos, com cargos de liderança em empresas renomadas como IBM e Vivo Vita. Sua experiência abrange desde a concepção até a implementação de projetos complexos.
-- **Certificações Relevantes**: Possui a certificação PMP, que é altamente valorizada na área de gestão de projetos.
-- **Habilidades de Comunicação e Negociação**: Demonstrou forte capacidade de comunicação e negociação com stakeholders, essencial para o sucesso em projetos.
-- **Experiência em Condução de Reuniões e Apresentações**: Tem experiência significativa em conduzir reuniões e apresentações, o que é crucial para a função.
+- **Formação Acadêmica:** Letícia possui uma sólida formação acadêmica com pós-graduação em Gerenciamento de Projetos pela FGV, o que é um diferencial importante.
+- **Experiência em PMO:** Experiência significativa como PMO, gerenciando um portfólio de 40 projetos, o que demonstra capacidade de lidar com múltiplas demandas.
+- **Habilidades de Comunicação:** Excelente habilidade de comunicação e trabalho em equipe, conforme descrito no parecer, o que é crucial para a negociação com stakeholders.
+- **Análise de Dados:** Forte experiência em análise de dados e estruturação de relatórios, essencial para a função.
 
 #### Principais Lacunas
-- **Conhecimento em Análise de Dados e Ferramentas**: Embora tenha experiência em análise de dados, o domínio de ferramentas como Excel e Power BI não é destacado como um ponto forte.
-- **Elaboração de Dashboards e KPIs**: A experiência em elaboração de dashboards e KPIs é mencionada, mas não é um ponto de destaque em comparação com outras competências.
+- **Experiência Direta como Gerente de Projetos:** Letícia não possui experiência direta como gerente de projetos, o que pode ser uma limitação para a vaga que requer condução de projetos de ponta a ponta.
+- **Certificações em Gestão de Projetos:** Ausência de certificações como PMP ou similares, que são diferenciais importantes para a vaga.
+- **Domínio de Ferramentas de Análise:** Embora tenha experiência, não há menção específica ao uso de Power BI, que é uma ferramenta relevante para a posição.
 
-#### Sinais de Instabilidade ou Padrão Atípico
-- **Tempo no Cargo Atual**: Está no cargo atual de Gerente de Projetos Sr. na Vivo Vita desde novembro de 2023.
-- **Diferença de Tempo entre o Cargo Atual e a Última Movimentação**: A última movimentação foi em abril de 2023, quando saiu da Kyndryl para a Vivo Vita.
-- **Evidência de Instabilidade**: Não há evidência clara de instabilidade. Eliane tem uma trajetória consistente em cargos de gestão de projetos, com movimentações que indicam evolução de responsabilidades.
-- **Impacto na Aderência à Vaga**: A trajetória profissional de Eliane é estável e consistente, o que sugere uma boa aderência à vaga.
+#### Análise de Trajetória Profissional
+- **Tempo no Cargo Atual:** Letícia está no cargo atual de Analista de Projetos Sênior na Vivo desde abril de 2022.
+- **Última Movimentação:** A última movimentação foi de outra empresa (BP Bunge Bioenergia) para a Vivo.
+- **Evidência de Instabilidade:** Não há evidência de instabilidade significativa. Letícia tem permanecido em suas posições por períodos razoáveis.
+- **Impacto na Aderência à Vaga:** A falta de experiência direta como gerente de projetos pode impactar a aderência à vaga, mas sua experiência como PMO e habilidades analíticas são pontos fortes que podem compensar essa lacuna.
 
 ### Resumo
-Eliane Sousa Bertao apresenta um perfil altamente qualificado para a vaga, com experiência robusta em gestão de projetos e certificações relevantes. Embora haja espaço para aprimoramento no domínio de ferramentas de análise de dados, suas habilidades de comunicação, liderança e experiência em projetos complexos a tornam uma candidata forte para a posição.
-
-Candidato: Geison_Garcia.pdf
-### Análise do Currículo de Geison Garcia Piovezam
-
-#### Tabela de Pontuação
-
-| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
-|----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 85           | 18       | 15.3            |
-| Domínio dos artefatos de projetos                  | 80           | 15       | 12.0            |
-| Conhecimento em análise de dados                   | 90           | 12       | 10.8            |
-| Domínio de ferramentas de análise (Excel, Power BI)| 85           | 12       | 10.2            |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 80           | 12       | 9.6             |
-| Comunicação e negociação com stakeholders          | 75           | 10       | 7.5             |
-| Condução de reunião e apresentações                | 70           | 7        | 4.9             |
-| Certificações em gestão de projetos e analíticas   | 60           | 7        | 4.2             |
-| Habilidade em construção de material para apresentação| 75        | 7        | 5.25            |
-| **Pontuação Final**                                |              |          | **79.75**       |
-
-#### Principais Pontos Positivos
-- **Experiência em Gestão de Projetos**: Geison possui experiência significativa na condução de projetos, especialmente no contexto de telecomunicações, com responsabilidade sobre projetos que afetam o Centro de Operações da Vivo.
-- **Conhecimento Técnico e Analítico**: Demonstrou forte capacidade analítica e domínio de ferramentas como MySQL e Power BI, além de experiência em elaboração de dashboards.
-- **Comunicação e Apresentações**: Experiência em elaboração de apresentações gerenciais e comunicação com stakeholders, embora haja espaço para aprimoramento.
-
-#### Principais Lacunas
-- **Certificações**: Embora tenha uma pós-graduação em Gestão de Projetos e cursos em metodologias ágeis, a ausência de certificações reconhecidas como PMP ou CAPM pode ser uma desvantagem.
-- **Movimentação Profissional**: Não há registro de promoções ou movimentações significativas desde 2018, o que pode indicar uma falta de progressão na carreira.
-
-#### Análise de Estabilidade e Trajetória Profissional
-- **Cargo Atual**: Analista de Telecomunicações Sênior na Vivo desde janeiro de 2018.
-- **Tempo no Cargo Atual**: Aproximadamente 7 anos.
-- **Movimentação**: Não há registro de promoções ou movimentações internas desde a admissão na Vivo.
-- **Impacto na Aderência à Vaga**: A falta de movimentação pode sugerir estabilidade, mas também pode indicar uma estagnação na progressão de carreira, o que pode ser uma preocupação para uma posição que requer liderança e inovação contínua.
-
-### Conclusão
-Geison Garcia Piovezam apresenta um perfil técnico robusto e experiência relevante em gestão de projetos e análise de dados. No entanto, a ausência de certificações formais em gestão de projetos e a falta de progressão na carreira nos últimos anos podem ser áreas de preocupação. A pontuação final de 79.75 indica que ele é um candidato forte, mas com algumas áreas a serem desenvolvidas para se alinhar completamente com os requisitos da vaga.
+Letícia Midori Yamamoto apresenta um perfil sólido com forte formação acadêmica e experiência em PMO, o que a torna uma candidata competitiva. No entanto, a falta de experiência direta como gerente de projetos e a ausência de certificações específicas podem ser áreas de desenvolvimento para melhor aderência à vaga. Sua habilidade de comunicação e análise de dados são pontos fortes que podem ser valiosos para a posição.
 
 Candidato: Giovana_roberto.pdf
 ### Análise do Currículo de Giovana Roberta Figueredo
@@ -309,36 +143,216 @@ Candidato: Giovana_roberto.pdf
 | Conhecimento de gestão de projetos                 | 85           | 18       | 15.3            |
 | Domínio dos artefatos de projetos                  | 80           | 15       | 12.0            |
 | Conhecimento em análise de dados                   | 75           | 12       | 9.0             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 80           | 12       | 9.6             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 85          | 12       | 10.2            |
+| Domínio de ferramentas de análise (Excel, Power BI)| 85           | 12       | 10.2            |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 80           | 12       | 9.6             |
 | Comunicação e negociação com stakeholders          | 70           | 10       | 7.0             |
 | Condução de reunião e apresentações                | 75           | 7        | 5.25            |
-| Certificações em gestão de projetos e analíticas   | 90           | 7        | 6.3             |
-| Habilidade em construção de material para apresentação| 80        | 7        | 5.6             |
+| Certificações, MBA ou pós-graduação                | 90           | 7        | 6.3             |
+| Habilidade em construção de material para apresentação| 80         | 7        | 5.6             |
 | **Pontuação Final**                                |              |          | **80.25**       |
 
 #### Principais Pontos Positivos
-- **Certificações Relevantes**: Possui certificações PMP e CAPM, que são altamente valorizadas na área de gestão de projetos.
+- **Certificações e Educação**: Giovana possui certificações relevantes como PMP e CAPM, além de um MBA em Gestão de Projetos, o que demonstra um forte embasamento teórico e prático em gestão de projetos.
 - **Experiência com Ferramentas de Análise**: Demonstrou domínio em Power BI e Excel, essenciais para a função.
-- **Capacidade de Elaborar Dashboards e Relatórios**: Experiência comprovada na criação de dashboards e relatórios para suporte a decisões estratégicas.
-- **Formação Acadêmica**: MBA em Gestão de Projetos, complementando sua experiência prática.
+- **Capacidade de Elaboração de Dashboards e Relatórios**: Experiência comprovada na criação de dashboards e relatórios, o que é crucial para a vaga.
 
 #### Principais Lacunas
-- **Comunicação e Negociação**: Embora tenha experiência em comunicação, a habilidade de negociação com stakeholders não foi destacada de forma robusta.
-- **Condução de Reuniões**: A experiência em condução de reuniões e apresentações é mencionada, mas não detalhada em termos de impacto ou resultados.
-- **Conhecimento em Análise de Dados**: Embora tenha experiência, a profundidade do conhecimento em análise de dados poderia ser mais detalhada.
+- **Comunicação e Negociação**: Embora tenha experiência em comunicação, a habilidade de negociação com stakeholders poderia ser mais destacada.
+- **Condução de Reuniões**: A experiência em condução de reuniões e apresentações é mencionada, mas poderia ser mais detalhada em termos de impacto e resultados.
 
-#### Sinais de Instabilidade ou Padrão Atípico
-- **Tempo no Cargo Atual**: Está no cargo atual de Analista de Telecom desde abril de 2021.
-- **Movimentação Recente**: A última movimentação foi uma transferência lateral em novembro de 2024, após uma promoção em março de 2024.
-- **Evidência de Instabilidade**: Não há evidências claras de instabilidade, mas a movimentação lateral recente pode indicar uma busca por novas oportunidades ou desafios.
-- **Impacto na Aderência à Vaga**: A movimentação lateral recente pode ser vista como uma busca por crescimento ou ajuste de carreira, mas não compromete a aderência à vaga, dado o histórico de promoções e certificações.
+#### Análise de Trajetória Profissional
+- **Cargo Atual**: Analista de Telecom PL na Telefônica Brasil S/A desde abril de 2021.
+- **Última Movimentação**: Movimentação lateral em novembro de 2024 dentro da mesma empresa.
+- **Evidência de Instabilidade**: Não há evidências significativas de instabilidade. Giovana tem uma trajetória consistente na mesma empresa desde 2021, com promoções e movimentações laterais que indicam crescimento e adaptação.
+- **Impacto na Aderência à Vaga**: A estabilidade e o crescimento dentro da mesma empresa são positivos, indicando capacidade de adaptação e desenvolvimento contínuo, o que é favorável para a vaga.
 
 ### Resumo
-Giovana Roberta Figueredo apresenta um perfil sólido para a vaga, com forte formação acadêmica e certificações relevantes. Sua experiência prática em ferramentas de análise e elaboração de dashboards é um ponto forte. No entanto, a comunicação e negociação com stakeholders e a condução de reuniões poderiam ser mais detalhadas para fortalecer sua candidatura. A movimentação lateral recente não parece comprometer sua estabilidade, mas é um ponto a ser considerado em termos de expectativas de carreira.
+Giovana Roberta Figueredo apresenta um perfil sólido para a vaga, com forte formação acadêmica e certificações relevantes. Sua experiência prática em ferramentas de análise e elaboração de dashboards é um ponto forte. No entanto, a comunicação e negociação com stakeholders poderiam ser mais enfatizadas. A trajetória profissional estável e progressiva na mesma empresa é um indicativo positivo de sua capacidade de adaptação e crescimento.
 
-Candidato: Jackson_giovanni.pdf
-### Análise do Currículo de Jackson Giovanni Nascimento dos Santos
+Candidato: Juliana_Ianibelli.pdf
+### Análise do Currículo de Juliana Ianibelli
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 90           | 18       | 16.2            |
+| Domínio dos artefatos de projetos                  | 85           | 15       | 12.75           |
+| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 75           | 12       | 9               |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 80           | 12       | 9.6             |
+| Comunicação e negociação com stakeholders          | 80           | 10       | 8               |
+| Condução de reunião e apresentações                | 85           | 7        | 5.95            |
+| Certificações, MBA ou pós-graduação                | 90           | 7        | 6.3             |
+| Habilidade em construção de material para apresentação| 85         | 7        | 5.95            |
+| **Pontuação Final**                                |              |          | **82.15**       |
+
+#### Principais Pontos Positivos
+- **Experiência Sólida em Gestão de Projetos**: Juliana possui uma vasta experiência em gestão de projetos, cobrindo todas as fases do projeto e utilizando metodologias ágeis e tradicionais.
+- **Certificações e Educação**: Possui um MBA em Gestão de Projetos e certificação em Metodologia Ágil, o que reforça sua qualificação técnica.
+- **Domínio de Ferramentas**: Experiência com Power BI e Excel, além de ferramentas de gestão como Jira e MS Project.
+- **Comunicação e Relatórios**: Experiência em elaboração de relatórios executivos e apresentações, além de condução de reuniões.
+
+#### Principais Lacunas
+- **Conhecimento em Análise de Dados**: Embora tenha experiência com KPIs e relatórios, o conhecimento em análise de dados não é destacado como um ponto forte.
+- **Domínio Avançado de Ferramentas de Análise**: O nível de Excel é intermediário, o que pode ser uma limitação para a vaga que requer domínio avançado.
+
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Juliana está no cargo atual de Analista de Projetos Sênior desde agosto de 2019, o que demonstra estabilidade.
+- **Movimentações Recentes**: Houve movimentações laterais em fevereiro de 2025 e dezembro de 2024 dentro da mesma empresa, o que não indica instabilidade, mas sim uma possível reestruturação ou ajuste organizacional.
+- **Impacto na Aderência à Vaga**: A estabilidade no cargo atual e a experiência acumulada são positivas para a vaga. No entanto, a limitação em análise de dados e ferramentas avançadas pode ser um ponto a ser desenvolvido.
+
+### Resumo
+Juliana Ianibelli apresenta um perfil sólido para a vaga, com experiência abrangente em gestão de projetos e qualificações acadêmicas relevantes. A principal área de melhoria seria o fortalecimento em análise de dados e domínio avançado de ferramentas como Excel. A estabilidade em sua trajetória profissional é um ponto positivo, embora as movimentações laterais recentes devam ser consideradas no contexto organizacional.
+
+Candidato: aline_jordao.pdf
+### Análise do Currículo de Aline Jordao
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 30           | 18       | 5.4             |
+| Domínio dos artefatos de projetos                  | 25           | 15       | 3.75            |
+| Conhecimento em análise de dados                   | 40           | 12       | 4.8             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 30           | 12       | 3.6             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 20           | 12       | 2.4             |
+| Comunicação e negociação com stakeholders          | 50           | 10       | 5.0             |
+| Condução de reunião e apresentações                | 40           | 7        | 2.8             |
+| Certificações, MBA ou pós-graduação                | 60           | 7        | 4.2             |
+| Habilidade em construção de material para apresentação| 30         | 7        | 2.1             |
+| **Pontuação Final**                                |              |          | **34.05**       |
+
+#### Principais Pontos Positivos
+- **Comunicação e Negociação**: A experiência de Aline em atendimento a clientes críticos e comunicação em espanhol sugere boas habilidades de comunicação e negociação.
+- **Certificações e Educação**: Aline está cursando um mestrado em Computação Aplicada, o que demonstra um compromisso com o desenvolvimento acadêmico e pode ser relevante para a análise de dados.
+
+#### Principais Lacunas
+- **Gestão de Projetos**: Não há evidências claras de experiência em gestão de projetos ou uso de artefatos de projetos como riscos, cronograma e escopo.
+- **Ferramentas de Análise e Dashboards**: Não há menção ao uso de ferramentas como Excel avançado ou Power BI, nem à elaboração de dashboards ou relatórios.
+- **Experiência em Condução de Reuniões**: A experiência descrita não menciona a condução de reuniões ou apresentações formais.
+
+#### Análise de Trajetória Profissional
+- **Cargo Atual**: Especialista em Telecomunicações na OI S.A. desde 05/2018.
+- **Última Movimentação**: Não há movimentação recente dentro da mesma empresa ou para outra empresa.
+- **Evidência de Instabilidade**: Não há evidência de instabilidade ou movimentação atípica. Aline está no mesmo cargo desde 2018, o que sugere estabilidade.
+- **Impacto na Aderência à Vaga**: A falta de experiência direta em gestão de projetos e ferramentas de análise pode impactar negativamente a aderência à vaga, que requer habilidades específicas nessas áreas.
+
+### Resumo
+Aline Jordao possui uma base sólida em telecomunicações e está investindo em sua educação com um mestrado em Computação Aplicada. No entanto, sua experiência não está diretamente alinhada com os requisitos da vaga, especialmente em termos de gestão de projetos e uso de ferramentas de análise de dados. A estabilidade em seu cargo atual é um ponto positivo, mas a falta de experiência específica pode ser uma barreira significativa para a posição em questão.
+
+Candidato: angelo_gonçalves.pdf
+### Análise do Currículo de Angelo Marcos Simão Gonçalves
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 40           | 18       | 7.2             |
+| Domínio dos artefatos de projetos                  | 30           | 15       | 4.5             |
+| Conhecimento em análise de dados                   | 50           | 12       | 6.0             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 60           | 12       | 7.2             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 50           | 12       | 6.0             |
+| Comunicação e negociação com stakeholders          | 50           | 10       | 5.0             |
+| Condução de reunião e apresentações                | 40           | 7        | 2.8             |
+| Certificações, MBA ou pós-graduação                | 50           | 7        | 3.5             |
+| Habilidade em construção de material para apresentação| 40         | 7        | 2.8             |
+| **Pontuação Final**                                |              |          | **45.0**        |
+
+#### Principais Pontos Positivos
+- **Conhecimento em Análise de Dados**: Angelo demonstra um bom nível de conhecimento em análise de dados, especialmente com a criação de relatórios e reports semanais.
+- **Domínio de Ferramentas de Análise**: Possui curso avançado em Power BI, o que é um diferencial importante para a vaga.
+- **Certificações e Cursos**: Possui várias certificações em metodologias ágeis e ferramentas de gestão de projetos, como MS Project e Power BI.
+
+#### Principais Lacunas
+- **Experiência em Gestão de Projetos**: A experiência direta em gestão de projetos é limitada, com pouca evidência de condução de projetos complexos.
+- **Domínio dos Artefatos de Projetos**: Não há menção clara sobre o uso de artefatos de projetos como riscos, cronograma e escopo.
+- **Comunicação e Negociação**: Embora tenha experiência em comunicação com diferentes áreas, não há exemplos claros de negociação com stakeholders de alto nível.
+
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Está no cargo atual de Analista de Suporte PL desde setembro de 2021.
+- **Diferença de Tempo entre Movimentações**: A última movimentação foi dentro da mesma empresa (Telefonica Brasil) em setembro de 2019.
+- **Evidência de Instabilidade**: Não há evidência clara de instabilidade, mas a experiência em cargos anteriores é bastante diversa e não diretamente relacionada à gestão de projetos.
+- **Impacto na Aderência à Vaga**: A falta de experiência direta em gestão de projetos e domínio dos artefatos pode impactar negativamente a aderência à vaga, apesar de ter boas habilidades em análise de dados e ferramentas de análise.
+
+### Resumo
+Angelo possui um perfil técnico com forte conhecimento em análise de dados e ferramentas como Power BI, mas carece de experiência prática em gestão de projetos e domínio dos artefatos necessários para a vaga. A trajetória profissional é estável dentro da mesma empresa, mas a diversidade de cargos pode indicar uma falta de foco em gestão de projetos.
+
+Candidato: caio_feitosa.pdf
+### Análise do Currículo de Caio Augusto Feitosa
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 50           | 18       | 9               |
+| Domínio dos artefatos de projetos                  | 40           | 15       | 6               |
+| Conhecimento em análise de dados                   | 60           | 12       | 7.2             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 80           | 12       | 9.6             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 70           | 12       | 8.4             |
+| Comunicação e negociação com stakeholders          | 60           | 10       | 6               |
+| Condução de reunião e apresentações                | 50           | 7        | 3.5             |
+| Certificações, MBA ou pós-graduação                | 20           | 7        | 1.4             |
+| Habilidade em construção de material para apresentação| 60         | 7        | 4.2             |
+| **Pontuação Final**                                |              |          | **55.3**        |
+
+#### Principais Pontos Positivos
+- **Domínio de Ferramentas de Análise**: Caio possui um bom domínio de Excel e Power BI, o que é essencial para a vaga.
+- **Capacidade de Elaborar Dashboards e Relatórios**: Demonstrou capacidade de elaborar relatórios na ferramenta Power BI.
+- **Experiência em Projetos de Alta Complexidade**: Participação em grandes eventos como Rock in Rio e Réveillon, o que indica experiência em projetos complexos.
+
+#### Principais Lacunas
+- **Conhecimento de Gestão de Projetos**: A experiência em gestão de projetos não é claramente destacada, especialmente em relação a metodologias formais.
+- **Certificações em Gestão de Projetos**: Não possui certificações como PMP ou similares, que são diferenciais importantes para a vaga.
+- **Domínio dos Artefatos de Projetos**: Não há menção clara sobre o uso de artefatos de gestão de projetos como cronogramas e gestão de riscos.
+
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Caio está no cargo de Analista Telecom JR desde 08/2021, o que indica estabilidade.
+- **Diferença de Tempo entre Cargos**: Não há registro de movimentações recentes, o que sugere estabilidade na posição atual.
+- **Impacto na Aderência à Vaga**: A estabilidade no cargo atual é positiva, mas a falta de progressão em cargos de gestão de projetos pode indicar uma lacuna na experiência necessária para a vaga.
+
+### Conclusão
+Caio Augusto Feitosa possui algumas competências técnicas relevantes para a vaga, especialmente em ferramentas de análise de dados. No entanto, ele apresenta lacunas significativas em gestão de projetos e certificações, o que pode impactar sua adequação à vaga. A estabilidade no cargo atual é um ponto positivo, mas a falta de progressão em cargos de gestão pode ser uma preocupação.
+
+Candidato: caique_leocadio.pdf
+### Análise do Currículo de Caique Leocadio
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 85           | 18       | 15.3            |
+| Domínio dos artefatos de projetos                  | 80           | 15       | 12.0            |
+| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 90           | 12       | 10.8            |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 85          | 12       | 10.2            |
+| Comunicação e negociação com stakeholders          | 75           | 10       | 7.5             |
+| Condução de reunião e apresentações                | 80           | 7        | 5.6             |
+| Certificações, MBA ou pós-graduação                | 60           | 7        | 4.2             |
+| Habilidade em construção de material para apresentação| 80        | 7        | 5.6             |
+| **Pontuação Final**                                |              |          | **79.6**        |
+
+#### Principais Pontos Positivos
+- **Experiência em Gestão de Projetos**: Caique possui experiência sólida na gestão de projetos, com atuação em todas as etapas, desde o kick-off até a pós-implantação.
+- **Domínio de Ferramentas de Análise**: Demonstrou forte habilidade no uso de Excel e Power BI, essenciais para a vaga.
+- **Capacidade de Elaboração de Dashboards e Relatórios**: Experiência comprovada na construção e implantação de dashboards em Power BI.
+
+#### Principais Lacunas
+- **Certificações e Educação Avançada**: Embora possua uma certificação em Scrum, a falta de certificações específicas em gestão de projetos (como PMP) ou um MBA completo pode ser uma desvantagem.
+- **Conhecimento em Análise de Dados**: Embora tenha experiência, o nível de profundidade em análise de dados não é tão destacado quanto outros aspectos.
+
+#### Análise de Trajetória Profissional
+- **Cargo Atual**: Analista de Projetos Pleno na Vivo (Telefônica Brasil) desde 06/2022.
+- **Tempo no Cargo Atual**: Aproximadamente 3 anos.
+- **Última Movimentação**: Movimentação lateral em 06/2025 dentro da mesma empresa.
+- **Evidência de Instabilidade**: Não há evidências significativas de instabilidade. Caique tem uma trajetória consistente dentro da mesma empresa, com promoções e movimentações laterais.
+- **Impacto na Aderência à Vaga**: A estabilidade e progressão na carreira dentro da Vivo indicam um profissional comprometido e com potencial de crescimento, o que é positivo para a vaga.
+
+### Resumo
+Caique Leocadio apresenta um perfil bem alinhado com a vaga, especialmente em termos de experiência prática em gestão de projetos e domínio de ferramentas analíticas. A principal área de melhoria seria a obtenção de certificações adicionais em gestão de projetos para fortalecer ainda mais seu perfil. A trajetória profissional estável e progressiva dentro da mesma empresa é um ponto positivo que sugere comprometimento e capacidade de adaptação a diferentes desafios.
+
+Candidato: eduardo_costa.pdf
+### Análise do Currículo de Eduardo Soares da Costa
 
 #### Tabela de Pontuação
 
@@ -347,74 +361,70 @@ Candidato: Jackson_giovanni.pdf
 | Conhecimento de gestão de projetos                 | 70           | 18       | 12.6            |
 | Domínio dos artefatos de projetos                  | 65           | 15       | 9.75            |
 | Conhecimento em análise de dados                   | 60           | 12       | 7.2             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 55           | 12       | 6.6             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 50           | 12       | 6.0             |
-| Comunicação e negociação com stakeholders          | 70           | 10       | 7.0             |
-| Condução de reunião e apresentações                | 65           | 7        | 4.55            |
-| Certificações em gestão de projetos e analíticas   | 40           | 7        | 2.8             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 70           | 12       | 8.4             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 65           | 12       | 7.8             |
+| Comunicação e negociação com stakeholders          | 60           | 10       | 6.0             |
+| Condução de reunião e apresentações                | 55           | 7        | 3.85            |
+| Certificações, MBA ou pós-graduação                | 50           | 7        | 3.5             |
 | Habilidade em construção de material para apresentação| 60         | 7        | 4.2             |
-| **Pontuação Final**                                |              |          | **60.7**        |
+| **Pontuação Final**                                |              |          | **63.4**        |
 
 #### Principais Pontos Positivos
-- **Experiência em Projetos de TI**: Jackson possui experiência relevante na condução de projetos de TI, especialmente na área de experiência do cliente, o que é um ponto positivo para a vaga.
-- **Comunicação e Coordenação**: Demonstrou habilidades de comunicação e coordenação com equipes de desenvolvimento, o que é essencial para a negociação com stakeholders.
-- **Certificação ITIL v4 Foundation**: Embora não seja uma certificação diretamente em gestão de projetos, é relevante para a área de TI.
+- **Experiência em Gestão de Projetos**: Eduardo possui experiência significativa na gestão de projetos de telecomunicações, especialmente em planejamento e execução de projetos técnicos.
+- **Domínio de Ferramentas de Análise**: Possui certificação em Power BI e experiência com Excel, o que é relevante para a vaga.
+- **Certificações em Metodologias Ágeis**: Possui certificação Yellow Belt e conhecimento em SCRUM, o que pode ser um diferencial em ambientes que valorizam metodologias ágeis.
 
 #### Principais Lacunas
-- **Falta de Certificações em Gestão de Projetos**: Não possui certificações específicas em gestão de projetos, como PMP ou CAPM, que são diferenciais importantes para a vaga.
-- **Domínio de Ferramentas de Análise**: Não há menção específica ao uso de ferramentas como Power BI, e o domínio de Excel não é destacado.
-- **Elaboração de Dashboards e Relatórios**: Não há evidências claras de experiência na elaboração de dashboards e relatórios, o que é uma competência importante para a vaga.
+- **Certificações em Gestão de Projetos**: Não possui certificações específicas em gestão de projetos como PMP ou CAPM, que são diferenciais importantes para a vaga.
+- **Comunicação e Apresentações**: Embora tenha experiência em apresentações, a descrição não detalha a profundidade de suas habilidades de comunicação e negociação com stakeholders.
+- **Educação Formal**: A pós-graduação está incompleta, o que pode ser uma desvantagem em comparação com candidatos que possuem MBA ou pós-graduação completa.
 
 #### Análise de Trajetória Profissional
-- **Cargo Atual**: Especialista de Projetos de TI na Vivo desde 08/2022.
-- **Tempo no Cargo Atual**: Aproximadamente 2 anos e 7 meses.
-- **Última Movimentação**: Veio do Banco Daycoval, onde atuou como Analista de Helpdesk até 05/2022.
-- **Evidência de Instabilidade**: Não há evidências claras de instabilidade, mas houve uma transição de analista de helpdesk para especialista de projetos, o que pode indicar uma evolução de carreira.
-- **Impacto na Aderência à Vaga**: A trajetória mostra uma evolução na carreira, mas a falta de certificações específicas e experiência detalhada em análise de dados e ferramentas pode impactar a aderência à vaga.
+- **Tempo no Cargo Atual**: Eduardo está no cargo atual de Analista de Telecomunicações Pleno desde janeiro de 2019.
+- **Última Movimentação**: A última movimentação foi uma movimentação lateral dentro da mesma empresa em março de 2025.
+- **Evidência de Instabilidade**: Não há evidência de instabilidade significativa, pois Eduardo tem uma trajetória consistente dentro da mesma empresa desde 2009.
+- **Impacto na Aderência à Vaga**: A estabilidade na empresa e a experiência acumulada são pontos positivos, mas a falta de certificações específicas em gestão de projetos pode impactar negativamente sua aderência à vaga.
 
-### Resumo
-Jackson possui uma base sólida em projetos de TI e comunicação, mas precisa fortalecer suas competências em análise de dados e obter certificações específicas em gestão de projetos para se alinhar melhor com os requisitos da vaga.
+### Conclusão
+Eduardo Soares da Costa apresenta uma boa experiência em gestão de projetos técnicos e domínio de ferramentas de análise, mas a falta de certificações específicas em gestão de projetos e a educação formal incompleta podem ser desvantagens. Sua trajetória profissional é estável, o que é um ponto positivo. A pontuação final de 63.4 indica que ele é um candidato razoável, mas pode não ser o mais competitivo para a vaga, dependendo do perfil dos outros candidatos.
 
-Candidato: Mauro_artioli.pdf
-### Análise do Currículo de Mauro Artioli
+Candidato: eliane_bertao.pdf
+### Análise do Currículo de Eliane Sousa Bertão
 
 #### Tabela de Pontuação
 
 | Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
 |----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 75           | 18       | 13.5            |
-| Domínio dos artefatos de projetos                  | 70           | 15       | 10.5            |
-| Conhecimento em análise de dados                   | 60           | 12       | 7.2             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 65           | 12       | 7.8             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 60           | 12       | 7.2             |
-| Comunicação e negociação com stakeholders          | 80           | 10       | 8.0             |
-| Condução de reunião e apresentações                | 75           | 7        | 5.25            |
-| Certificações em gestão de projetos e analíticas   | 50           | 7        | 3.5             |
-| Habilidade em construção de material para apresentação| 70        | 7        | 4.9             |
-| **Pontuação Final**                                |              |          | **67.85**       |
+| Conhecimento de gestão de projetos                 | 95           | 18       | 17.1            |
+| Domínio dos artefatos de projetos                  | 90           | 15       | 13.5            |
+| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 60           | 12       | 7.2             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 75           | 12       | 9.0             |
+| Comunicação e negociação com stakeholders          | 85           | 10       | 8.5             |
+| Condução de reunião e apresentações                | 80           | 7        | 5.6             |
+| Certificações, MBA ou pós-graduação                | 80           | 7        | 5.6             |
+| Habilidade em construção de material para apresentação| 85        | 7        | 5.95            |
+| **Pontuação Final**                                |              |          | **80.85**       |
 
-#### Pontos Positivos
-- **Experiência em Gestão de Projetos**: Mauro possui experiência relevante na gestão de projetos internos de TI, com foco em iniciativas de melhoria contínua e modernização de tecnologias.
-- **Comunicação e Negociação**: Demonstrou habilidade em manter uma interface efetiva entre equipes locais e globais, o que sugere boas habilidades de comunicação e negociação.
-- **Certificações Técnicas**: Possui várias certificações Microsoft, o que indica um bom nível de conhecimento técnico.
+#### Principais Pontos Positivos
+- **Experiência Sólida em Gestão de Projetos**: Eliane possui uma vasta experiência em gestão de projetos complexos, com atuação em empresas renomadas como IBM e Kyndryl, o que demonstra um conhecimento profundo na área.
+- **Certificação PMP**: A certificação PMP é um diferencial significativo, indicando um alto nível de competência em gestão de projetos.
+- **Habilidades de Comunicação e Liderança**: A candidata destaca habilidades de comunicação e liderança, essenciais para a negociação e colaboração com stakeholders.
 
-#### Lacunas
-- **Certificações em Gestão de Projetos**: Não possui certificações específicas em gestão de projetos como PMP ou CAPM, que são diferenciais importantes para a vaga.
-- **Análise de Dados e Ferramentas**: Embora tenha alguma experiência, não há menção específica ao uso de ferramentas como Power BI, o que é um requisito importante.
-- **Elaboração de Dashboards e Relatórios**: A experiência mencionada não detalha a criação de dashboards ou relatórios, o que é uma lacuna para a vaga.
+#### Principais Lacunas
+- **Domínio de Ferramentas de Análise**: Embora Eliane utilize Excel regularmente, não se considera especialista, e não há menção ao uso de Power BI, o que pode ser uma desvantagem para a vaga.
+- **Análise de Dados**: A experiência em análise de dados não é tão destacada quanto outras competências, o que pode ser uma área a ser desenvolvida.
 
-#### Análise de Trajetória Profissional
-- **Cargo Atual**: Analista de Projetos Senior na Vivo (Telefonica) desde 07/2022.
-- **Tempo no Cargo Atual**: Aproximadamente 2 anos e 8 meses.
-- **Última Movimentação**: Promoção dentro da mesma empresa em 01/2023.
-- **Evidência de Instabilidade**: Não há evidências significativas de instabilidade. Mauro tem permanecido em cargos por períodos razoáveis e teve uma promoção recente.
-- **Impacto na Aderência à Vaga**: A estabilidade e a promoção recente indicam um bom nível de desempenho e reconhecimento na empresa atual, o que é positivo para a vaga.
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Eliane está no cargo atual de Gerente de Projetos Sr. desde novembro de 2023, o que é um período muito recente.
+- **Movimentação Anterior**: A última movimentação foi de outra empresa (Kyndryl) para a atual (Vivo Vita), com um intervalo de aproximadamente 7 meses desde a última posição na Kyndryl.
+- **Impacto na Aderência à Vaga**: A recente mudança de emprego pode indicar uma busca por novas oportunidades ou desafios, mas não necessariamente instabilidade. A experiência anterior em cargos de gestão de projetos complexos é um ponto forte que compensa a curta duração no cargo atual.
 
 ### Resumo
-Mauro Artioli apresenta uma boa experiência em gestão de projetos e comunicação com stakeholders, mas possui lacunas em certificações específicas de gestão de projetos e no uso de ferramentas analíticas como Power BI. Sua trajetória profissional é estável, com promoções internas, o que sugere um bom desempenho em suas funções atuais. A pontuação final de 67.85 indica que ele é um candidato razoável, mas com áreas a melhorar para atender plenamente aos requisitos da vaga.
+Eliane Sousa Bertão é uma candidata altamente qualificada para a vaga, com uma sólida experiência em gestão de projetos e certificação PMP. No entanto, pode ser necessário desenvolver mais habilidades em ferramentas de análise de dados para atender plenamente aos requisitos da vaga. A recente mudança de emprego não parece ser um sinal de instabilidade, dado o histórico consistente de cargos anteriores.
 
-Candidato: Renan_berto.pdf
-### Análise do Currículo de Renan Berto
+Candidato: erik_spadotti.pdf
+### Análise do Currículo de Erik Fernando Spadotti
 
 #### Tabela de Pontuação
 
@@ -425,34 +435,179 @@ Candidato: Renan_berto.pdf
 | Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
 | Domínio de ferramentas de análise (Excel, Power BI)| 60           | 12       | 7.2             |
 | Capacidade de elaborar dashboards, relatórios e KPIs| 65           | 12       | 7.8             |
-| Comunicação e negociação com stakeholders          | 75           | 10       | 7.5             |
-| Condução de reunião e apresentações                | 70           | 7        | 4.9             |
-| Certificações em gestão de projetos e analíticas   | 60           | 7        | 4.2             |
-| Habilidade em construção de material para apresentação| 70        | 7        | 4.9             |
-| **Pontuação Final**                                |              |          | **70.55**       |
+| Comunicação e negociação com stakeholders          | 85           | 10       | 8.5             |
+| Condução de reunião e apresentações                | 80           | 7        | 5.6             |
+| Certificações, MBA ou pós-graduação                | 90           | 7        | 6.3             |
+| Habilidade em construção de material para apresentação| 75         | 7        | 5.25            |
+| **Pontuação Final**                                |              |          | **74.7**        |
 
 #### Principais Pontos Positivos
-- **Experiência em Gestão de Projetos**: Renan possui experiência prática em gestão de projetos, especialmente em data centers e instalações críticas, o que é relevante para a vaga.
-- **Gestão de Riscos e Cronogramas**: Demonstrou habilidades em gestão de riscos e cronogramas, além de ter liderado iniciativas para melhorar o cumprimento de prazos.
-- **Certificação Yellow Belt Lean Six Sigma**: Indica conhecimento em melhoria de processos e uso de dados para otimização, o que é um diferencial.
+- **Experiência em Gestão de Projetos**: Erik possui uma sólida experiência em liderança de equipes e gestão de projetos, com foco em práticas ágeis e gestão de riscos.
+- **Certificações e Educação**: Possui diversas certificações relevantes, incluindo Scrum Foundation e Six Sigma Green Belt, além de estar cursando um MBA em Gestão de Projetos.
+- **Comunicação e Negociação**: Demonstrou forte habilidade em comunicação e negociação com stakeholders, essencial para a função.
 
 #### Principais Lacunas
-- **Domínio de Ferramentas de Análise**: Não há menção específica ao uso de Excel avançado ou Power BI, o que é um requisito importante para a vaga.
-- **Certificações em Gestão de Projetos**: Embora tenha uma certificação Yellow Belt, não possui certificações específicas em gestão de projetos como PMP ou CAPM.
-- **Elaboração de Dashboards e Relatórios**: Não há detalhes sobre a experiência específica na criação de dashboards ou relatórios acionáveis.
+- **Domínio de Ferramentas de Análise**: Embora tenha experiência em tecnologias de desenvolvimento, o domínio específico de ferramentas de análise como Excel avançado e Power BI não é destacado.
+- **Elaboração de Dashboards e KPIs**: A experiência em criação de dashboards e relatórios não é explicitamente detalhada, o que pode ser uma área de desenvolvimento.
 
 #### Análise de Trajetória Profissional
-- **Cargo Atual**: Analista de Projetos na Vivo (Telefônica Brasil) desde agosto de 2022.
-- **Tempo no Cargo Atual**: Aproximadamente 1 ano e 7 meses.
-- **Última Movimentação**: Promoção de estagiário para analista dentro da mesma empresa.
-- **Evidência de Instabilidade**: Não há evidências de instabilidade ou movimentação atípica. A progressão de estagiário para analista é natural e dentro da mesma empresa.
-- **Impacto na Aderência à Vaga**: A estabilidade e progressão dentro da mesma empresa são positivas, indicando comprometimento e crescimento profissional.
+- **Cargo Atual**: Analista de Desenvolvimento de Sistemas na Telefonica Brasil SA desde janeiro de 2022.
+- **Tempo no Cargo Atual**: Aproximadamente 1 ano e 9 meses.
+- **Última Movimentação**: Movimentação lateral dentro da mesma empresa em janeiro de 2023.
+- **Evidência de Instabilidade**: Não há evidência significativa de instabilidade. As movimentações são dentro da mesma empresa e indicam progressão lateral.
+- **Impacto na Aderência à Vaga**: A estabilidade e progressão na carreira dentro da mesma empresa são positivas, mas a falta de destaque em ferramentas de análise pode impactar a aderência total à vaga.
 
 ### Resumo
-Renan Berto apresenta uma boa base em gestão de projetos e experiência prática relevante, mas precisa fortalecer seu domínio em ferramentas de análise e obter certificações específicas em gestão de projetos para se alinhar melhor aos requisitos da vaga. A trajetória profissional estável e progressiva é um ponto positivo para a candidatura.
+Erik Fernando Spadotti apresenta um perfil sólido em gestão de projetos e comunicação, com uma boa base educacional e certificações. No entanto, para a vaga específica, ele poderia se beneficiar de um maior foco em ferramentas de análise de dados e elaboração de dashboards. A trajetória profissional é estável, com progressões dentro da mesma empresa, o que é um ponto positivo.
 
-Candidato: Thiago_vinicius.pdf
-### Análise do Currículo de Thiago Vinicius Padella Rizzo
+Candidato: felipe_pereira.pdf
+### Análise do Currículo de Felipe Melo Pereira
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 80           | 18       | 14.4            |
+| Domínio dos artefatos de projetos                  | 75           | 15       | 11.25           |
+| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 85           | 12       | 10.2            |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 80           | 12       | 9.6             |
+| Comunicação e negociação com stakeholders          | 75           | 10       | 7.5             |
+| Condução de reunião e apresentações                | 70           | 7        | 4.9             |
+| Certificações, MBA ou pós-graduação                | 80           | 7        | 5.6             |
+| Habilidade em construção de material para apresentação| 75         | 7        | 5.25            |
+| **Pontuação Final**                                |              |          | **77.1**        |
+
+#### Principais Pontos Positivos
+- **Experiência em Gestão de Projetos**: Felipe possui experiência relevante na condução de projetos, especialmente em ambientes ágeis, utilizando metodologias como Kanban e Scrum.
+- **Domínio de Ferramentas de Análise**: Demonstrou forte habilidade no uso de Excel e ferramentas como JIRA, além de experiência na criação de dashboards.
+- **Formação Acadêmica**: Possui pós-graduação em Projetos pela Fundação Getúlio Vargas, o que é um diferencial importante.
+
+#### Principais Lacunas
+- **Certificações em Gestão de Projetos**: Apesar da pós-graduação, não possui certificações específicas como PMP ou CAPM, que são diferenciais para a vaga.
+- **Conhecimento em Análise de Dados**: Embora tenha experiência, o nível de profundidade em análise de dados não é totalmente claro.
+- **Comunicação e Negociação**: Embora tenha experiência em apresentações e reuniões, a habilidade de negociação com stakeholders poderia ser mais detalhada.
+
+#### Análise de Trajetória Profissional
+- **Cargo Atual**: Analista de Projetos Sênior na Vivo desde agosto de 2022.
+- **Última Movimentação**: Movimentação lateral em junho de 2025 dentro da mesma empresa.
+- **Evidência de Instabilidade**: Não há evidências significativas de instabilidade. Felipe tem mantido cargos por períodos razoáveis e tem evoluído em suas responsabilidades.
+- **Impacto na Aderência à Vaga**: A trajetória profissional de Felipe é estável e mostra progressão, o que é positivo para a aderência à vaga. A falta de certificações específicas pode ser uma desvantagem, mas sua experiência prática compensa em parte essa lacuna.
+
+### Resumo
+Felipe Melo Pereira apresenta um perfil sólido para a vaga, com experiência prática em gestão de projetos e domínio de ferramentas analíticas. A principal área de melhoria seria a obtenção de certificações específicas em gestão de projetos para complementar sua formação acadêmica. Sua trajetória profissional é estável, o que sugere uma boa aderência à vaga.
+
+Candidato: flavia_almeida.pdf
+### Análise do Currículo de Flavia Almeida
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 40           | 18       | 7.2             |
+| Domínio dos artefatos de projetos                  | 30           | 15       | 4.5             |
+| Conhecimento em análise de dados                   | 50           | 12       | 6.0             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 40           | 12       | 4.8             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 30           | 12       | 3.6             |
+| Comunicação e negociação com stakeholders          | 50           | 10       | 5.0             |
+| Condução de reunião e apresentações                | 30           | 7        | 2.1             |
+| Certificações, MBA ou pós-graduação                | 0            | 7        | 0.0             |
+| Habilidade em construção de material para apresentação| 40         | 7        | 2.8             |
+| **Pontuação Final**                                |              |          | **36.0**        |
+
+#### Principais Pontos Positivos
+- **Experiência em Análise de Dados**: Flavia tem alguma experiência em análise de dados, especialmente na identificação de gaps e melhorias, o que é relevante para a vaga.
+- **Comunicação e Negociação**: A experiência como consultora de fidelização e operadora de SAC sugere habilidades em comunicação e negociação com stakeholders.
+
+#### Principais Lacunas
+- **Experiência em Gestão de Projetos**: A experiência de Flavia em gestão de projetos é limitada, sendo apenas como estagiária, o que pode não ser suficiente para a vaga.
+- **Certificações e Educação Avançada**: Não possui certificações ou educação avançada em gestão de projetos ou áreas analíticas, o que é um diferencial importante para a vaga.
+- **Domínio de Ferramentas de Análise**: Embora tenha conhecimento básico de Excel, não há menção de experiência com Power BI ou outras ferramentas avançadas de análise.
+
+#### Análise de Trajetória Profissional
+- **Cargo Atual**: Estagiária na Vivo desde fevereiro de 2024.
+- **Tempo no Cargo Atual**: Aproximadamente 1 ano e 4 meses.
+- **Última Movimentação**: Movimentação lateral dentro da mesma empresa em junho de 2025.
+- **Evidência de Instabilidade**: A trajetória profissional de Flavia mostra várias mudanças de emprego em um curto período, com cargos de curta duração, o que pode indicar instabilidade.
+- **Impacto na Aderência à Vaga**: A falta de experiência sólida e contínua em gestão de projetos e a ausência de certificações podem impactar negativamente a aderência de Flavia à vaga.
+
+### Resumo
+Flavia Almeida apresenta algumas habilidades relevantes, especialmente em comunicação e análise de dados, mas carece de experiência sólida em gestão de projetos e certificações que são diferenciais importantes para a vaga. A trajetória profissional com várias mudanças em curto período pode indicar instabilidade, o que pode ser um ponto de atenção para a contratação.
+
+Candidato: flavio_silva.pdf
+### Análise do Currículo de Flavio Silva
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 90           | 18       | 16.2            |
+| Domínio dos artefatos de projetos                  | 85           | 15       | 12.75           |
+| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 80           | 12       | 9.6             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 75           | 12       | 9.0             |
+| Comunicação e negociação com stakeholders          | 85           | 10       | 8.5             |
+| Condução de reunião e apresentações                | 80           | 7        | 5.6             |
+| Certificações, MBA ou pós-graduação                | 90           | 7        | 6.3             |
+| Habilidade em construção de material para apresentação| 80        | 7        | 5.6             |
+| **Pontuação Final**                                |              |          | **82.95**       |
+
+#### Principais Pontos Positivos
+- **Experiência Sólida em Gestão de Projetos**: Flavio possui uma vasta experiência em gestão de projetos, com cargos de liderança em empresas renomadas, o que demonstra um conhecimento profundo na área.
+- **Certificação PMP**: A certificação PMP é um diferencial importante que valida suas habilidades em gestão de projetos.
+- **Domínio de Ferramentas de Gestão**: Experiência com ferramentas como MS Project, Jira e Trello, além de Excel avançado, que são cruciais para a função.
+- **Habilidades de Comunicação e Negociação**: Demonstrou habilidades sólidas em comunicação e negociação com stakeholders, essenciais para o sucesso em gestão de projetos.
+
+#### Principais Lacunas
+- **Conhecimento em Análise de Dados**: Embora tenha experiência em mapeamento de riscos e liberações de faturamento, o currículo não detalha extensivamente a análise de dados, o que poderia ser uma área de melhoria.
+- **Elaboração de Dashboards e KPIs**: A experiência em elaboração de dashboards e KPIs não é detalhada, o que pode ser uma área a ser desenvolvida.
+
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Flavio está no cargo atual de Gerente de Projetos SR na Vivo Vita desde janeiro de 2024, o que é um período relativamente curto.
+- **Movimentação Anterior**: A última movimentação foi de ThoughtWorks Brasil para Vivo Vita, o que pode ser visto como uma progressão de carreira, mas a curta duração no cargo atual pode ser um ponto de atenção.
+- **Impacto na Aderência à Vaga**: A curta duração no cargo atual pode levantar questões sobre estabilidade, mas a experiência anterior sólida e progressiva em cargos de gestão de projetos mitiga essa preocupação.
+
+### Conclusão
+Flavio Silva apresenta um perfil altamente qualificado para a vaga, com uma pontuação final de 82.95. Sua experiência em gestão de projetos, certificação PMP e habilidades de comunicação são pontos fortes. No entanto, ele poderia se beneficiar de um foco maior em análise de dados e elaboração de dashboards. A curta duração no cargo atual é um ponto a ser monitorado, mas não compromete significativamente sua adequação à vaga.
+
+Candidato: jessicca_castro.pdf
+### Análise do Currículo de Jessica Castro
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 85           | 18       | 15.3            |
+| Domínio dos artefatos de projetos                  | 80           | 15       | 12.0            |
+| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
+| Domínio de ferramentas de análise                  | 65           | 12       | 7.8             |
+| Capacidade de elaborar dashboards, relatórios, KPIs| 75           | 12       | 9.0             |
+| Comunicação e negociação com stakeholders          | 90           | 10       | 9.0             |
+| Condução de reunião e apresentações                | 85           | 7        | 5.95            |
+| Certificações, MBA ou pós-graduação                | 95           | 7        | 6.65            |
+| Habilidade em construção de material para apresentação | 80        | 7        | 5.6             |
+| **Pontuação Final**                                |              |          | **79.7**        |
+
+#### Principais Pontos Positivos
+- **Experiência em Transformação Digital e Metodologias Ágeis**: Jessica possui uma sólida experiência em liderar projetos de transformação digital, o que é um diferencial importante para a vaga.
+- **Comunicação e Negociação**: Demonstrou forte habilidade em comunicação e negociação com stakeholders, essencial para o sucesso em gestão de projetos.
+- **Certificações e Educação**: Possui várias certificações relevantes e pós-graduações, incluindo um MBA em Gestão de Projetos, o que reforça sua qualificação técnica.
+
+#### Principais Lacunas
+- **Domínio de Ferramentas de Análise**: Embora tenha experiência com Jira e Confluence, não há menção específica ao uso avançado de Excel ou Power BI, que são ferramentas cruciais para a vaga.
+- **Conhecimento em Análise de Dados**: A experiência em análise de dados não é destacada de forma robusta, o que pode ser uma área a ser desenvolvida.
+
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Jessica está no cargo atual de Agile Coach na Vivo desde setembro de 2022.
+- **Diferença de Tempo entre Movimentações**: A última movimentação foi de Consultora Estratégica Salesforce no Grupo Elfa para Agile Coach na Vivo, ocorrendo em setembro de 2022.
+- **Evidência de Instabilidade**: Não há evidência clara de instabilidade, mas a transição rápida entre diferentes áreas (de consultoria estratégica para Agile Coach) pode indicar uma busca por alinhamento de carreira.
+- **Impacto na Aderência à Vaga**: A experiência diversificada pode ser vista como uma vantagem, trazendo uma perspectiva ampla para a gestão de projetos, mas a falta de foco em ferramentas de análise pode ser um ponto de atenção.
+
+### Resumo
+Jessica Castro apresenta um perfil forte em gestão de projetos e transformação digital, com habilidades de comunicação e negociação bem desenvolvidas. No entanto, a falta de evidência de domínio em ferramentas de análise de dados pode ser uma área a ser melhorada para atender plenamente aos requisitos da vaga. Sua trajetória profissional não apresenta sinais significativos de instabilidade, mas a transição entre áreas pode ser explorada em uma entrevista para entender melhor suas motivações e objetivos de carreira.
+
+Candidato: jonathan_faber.pdf
+### Análise do Currículo de Jonathan Faber
 
 #### Tabela de Pontuação
 
@@ -465,70 +620,30 @@ Candidato: Thiago_vinicius.pdf
 | Capacidade de elaborar dashboards, relatórios e KPIs| 70           | 12       | 8.4             |
 | Comunicação e negociação com stakeholders          | 65           | 10       | 6.5             |
 | Condução de reunião e apresentações                | 60           | 7        | 4.2             |
-| Certificações em gestão de projetos e analíticas   | 30           | 7        | 2.1             |
-| Habilidade em construção de material para apresentação| 70        | 7        | 4.9             |
-| **Pontuação Final**                                |              |          | **64.65**       |
+| Certificações, MBA ou pós-graduação                | 30           | 7        | 2.1             |
+| Habilidade em construção de material para apresentação| 65         | 7        | 4.55            |
+| **Pontuação Final**                                |              |          | **64.3**        |
 
 #### Principais Pontos Positivos
-- **Experiência em Gestão de Projetos**: Thiago possui experiência prática em gestão de projetos, tendo atuado como Analista de Projetos em duas empresas diferentes, o que demonstra uma base sólida na área.
-- **Domínio de Ferramentas de Análise**: Relatou facilidade com Microsoft Project e Excel, além de experiência com Power BI, o que é relevante para a vaga.
-- **Capacidade de Elaborar Materiais Executivos**: Experiência em automatização de materiais executivos e uso de Power BI para facilitar a compreensão de informações.
+- **Experiência em Projetos**: Jonathan possui experiência prática na condução de projetos, especialmente na área de telecomunicações, o que é relevante para a vaga.
+- **Domínio de Power BI**: Ele tem certificação em Power BI, o que demonstra um bom nível de habilidade com essa ferramenta de análise.
+- **Experiência em Comunicação**: Participação em workshops e apresentações, o que sugere habilidades de comunicação e interação com stakeholders.
 
 #### Principais Lacunas
-- **Certificações**: Não possui certificações formais em gestão de projetos ou ferramentas analíticas, o que é um diferencial importante para a vaga.
-- **Experiência Recente em Gestão de Projetos**: A experiência mais recente de Thiago não está diretamente relacionada à gestão de projetos, mas sim à logística e controle de qualidade.
-- **Comunicação e Negociação**: Embora tenha experiência, a descrição das atividades não detalha profundamente a interação com stakeholders, o que poderia fortalecer sua candidatura.
-
-#### Análise de Trajetória Profissional
-- **Cargo Atual**: Analista Suporte Operação PL na Vivo desde fevereiro de 2022.
-- **Tempo no Cargo Atual**: Aproximadamente 1 ano e 8 meses.
-- **Última Movimentação**: Promoção em setembro de 2023 dentro da mesma empresa.
-- **Evidência de Instabilidade**: Não há evidências claras de instabilidade, mas a mudança de foco de projetos para logística e suporte pode indicar uma alternância de áreas.
-- **Impacto na Aderência à Vaga**: A alternância de áreas pode sugerir uma falta de foco contínuo em gestão de projetos, o que pode impactar a aderência à vaga que requer experiência comprovada e contínua na condução de projetos.
-
-### Resumo
-Thiago possui uma base sólida em gestão de projetos e ferramentas analíticas, mas a falta de certificações e a mudança de foco em sua carreira recente podem ser desvantagens. A experiência prática e o domínio de ferramentas são pontos fortes, mas a continuidade e aprofundamento em gestão de projetos são áreas a serem desenvolvidas para melhor aderência à vaga.
-
-Candidato: Tiago_dias.pdf
-### Análise do Currículo de Tiago Dias de Freitas
-
-#### Tabela de Pontuação
-
-| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
-|----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 80           | 18       | 14.4            |
-| Domínio dos artefatos de projetos                  | 75           | 15       | 11.25           |
-| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 65           | 12       | 7.8             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 70           | 12       | 8.4             |
-| Comunicação e negociação com stakeholders          | 75           | 10       | 7.5             |
-| Condução de reunião e apresentações                | 80           | 7        | 5.6             |
-| Certificações em gestão de projetos e analíticas   | 50           | 7        | 3.5             |
-| Habilidade em construção de material para apresentação| 75        | 7        | 5.25            |
-| **Pontuação Final**                                |              |          | **72.1**        |
-
-#### Principais Pontos Positivos
-- **Experiência em Gestão de Projetos**: Tiago possui uma sólida experiência em gestão de projetos, tendo atuado como Gerente de Projetos na Atos, onde gerenciou contratos de grande porte e complexidade.
-- **Domínio de Artefatos de Projetos**: Demonstrou experiência no gerenciamento de cronograma, custos, riscos e escopo, além de ser responsável pela governança de processos na Vivo.
-- **Comunicação e Negociação**: Tem experiência em conduzir reuniões e apresentações, além de ser ponto focal para áreas técnicas e de gestão de projetos.
-- **Capacidade Analítica**: Trabalha com grande volume de dados e gera indicadores para reuniões executivas.
-
-#### Principais Lacunas
-- **Certificações**: Embora tenha várias certificações em ITIL e cursos relacionados, não possui certificações específicas em gestão de projetos como PMP ou CAPM, que são diferenciais para a vaga.
-- **Domínio de Ferramentas de Análise**: O conhecimento em Excel é intermediário, e embora tenha feito um curso de Power BI, não há menção de uso avançado dessas ferramentas.
-- **Conhecimento em Análise de Dados**: Embora tenha experiência, não há menção de uso de técnicas avançadas de análise de dados ou ferramentas além do Excel e Power BI.
+- **Certificações em Gestão de Projetos**: Não possui certificações formais em gestão de projetos, como PMP ou CAPM, que são diferenciais importantes para a vaga.
+- **Conhecimento Avançado em Excel**: Apenas nível intermediário em Excel, enquanto a vaga requer domínio avançado.
+- **Educação Formal**: Ainda está cursando a graduação, o que pode ser uma limitação em comparação com candidatos que já possuem formação completa ou pós-graduação.
 
 #### Sinais de Instabilidade ou Padrão Atípico
-- **Tempo no Cargo Atual**: Tiago está no cargo atual de Analista de Projetos desde setembro de 2019.
-- **Movimentação Recente**: A última movimentação foi uma transferência lateral em setembro de 2024 dentro da mesma empresa.
-- **Evidência de Instabilidade**: Não há evidências claras de instabilidade, mas a falta de progressão para um cargo de maior responsabilidade desde 2019 pode ser um ponto de atenção.
-- **Impacto na Aderência à Vaga**: A falta de certificações específicas em gestão de projetos e o nível intermediário em ferramentas de análise podem impactar a aderência à vaga, que requer um perfil mais analítico e certificado.
+- **Tempo no Cargo Atual**: Jonathan está no cargo atual desde novembro de 2022, o que indica estabilidade.
+- **Movimentação Recente**: A última movimentação foi uma transferência lateral em junho de 2025 dentro da mesma empresa, o que não sugere instabilidade.
+- **Impacto na Aderência à Vaga**: A estabilidade no cargo atual é um ponto positivo, mas a falta de certificações formais e a educação ainda em andamento podem impactar negativamente a aderência à vaga.
 
 ### Resumo
-Tiago Dias de Freitas apresenta uma boa experiência em gestão de projetos e comunicação com stakeholders, mas possui algumas lacunas em certificações específicas e domínio avançado de ferramentas de análise. Sua trajetória profissional é estável, mas a falta de progressão para cargos de maior responsabilidade pode ser um ponto de atenção. A pontuação final de 72.1 indica que ele é um candidato competitivo, mas com áreas a serem desenvolvidas para atender plenamente aos requisitos da vaga.
+Jonathan Faber apresenta uma boa experiência prática em gestão de projetos e habilidades com ferramentas de análise, mas a falta de certificações formais e o nível intermediário em Excel são pontos que podem ser melhorados para aumentar sua aderência à vaga. A estabilidade no emprego atual é um ponto positivo, mas a educação ainda em andamento pode ser uma limitação.
 
-Candidato: aline_micheli.pdf
-### Análise do Currículo de Aline Micheli Ismael de Sousa
+Candidato: jose_silva.pdf
+### Análise do Currículo de José Diego Silva
 
 #### Tabela de Pontuação
 
@@ -537,41 +652,75 @@ Candidato: aline_micheli.pdf
 | Conhecimento de gestão de projetos                 | 60           | 18       | 10.8            |
 | Domínio dos artefatos de projetos                  | 55           | 15       | 8.25            |
 | Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 80           | 12       | 9.6             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 75           | 12       | 9.0             |
-| Comunicação e negociação com stakeholders          | 65           | 10       | 6.5             |
-| Condução de reunião e apresentações                | 60           | 7        | 4.2             |
-| Certificações em gestão de projetos e analíticas   | 50           | 7        | 3.5             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 50           | 12       | 6.0             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 65           | 12       | 7.8             |
+| Comunicação e negociação com stakeholders          | 75           | 10       | 7.5             |
+| Condução de reunião e apresentações                | 70           | 7        | 4.9             |
+| Certificações, MBA ou pós-graduação                | 0            | 7        | 0.0             |
+| Habilidade em construção de material para apresentação| 60         | 7        | 4.2             |
+| **Pontuação Final**                                |              |          | **57.85**       |
+
+#### Principais Pontos Positivos
+- **Comunicação e Negociação**: José Diego demonstra boa habilidade em comunicação e negociação com stakeholders, o que é crucial para a função.
+- **Experiência em Análise de Dados**: Possui experiência relevante em análise de dados, o que é um ponto forte para a vaga.
+- **Condução de Reuniões**: Tem experiência em conduzir reuniões e elaborar apresentações executivas, o que é importante para a função.
+
+#### Principais Lacunas
+- **Certificações e Educação Avançada**: Não possui certificações em gestão de projetos ou educação avançada, como MBA ou pós-graduação, que são diferenciais importantes para a vaga.
+- **Domínio de Ferramentas de Análise**: O domínio de ferramentas como Excel e Power BI é apenas intermediário, o que pode ser uma limitação para a função.
+- **Conhecimento de Gestão de Projetos**: A experiência em gestão de projetos não é muito aprofundada, o que pode ser uma desvantagem.
+
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: José Diego está no cargo atual de Analista de Suporte Vendas Pleno desde agosto de 2021.
+- **Última Movimentação**: A última movimentação foi uma movimentação lateral dentro da mesma empresa (Telefônica Brasil S/A) em junho de 2025.
+- **Evidência de Instabilidade**: Não há evidência clara de instabilidade, mas a falta de progressão significativa em termos de certificações ou educação avançada pode impactar a aderência à vaga.
+
+#### Impacto na Aderência à Vaga
+A falta de certificações e domínio avançado de ferramentas de análise pode impactar negativamente a aderência de José Diego à vaga. No entanto, suas habilidades de comunicação e experiência em análise de dados são pontos fortes que podem compensar algumas das lacunas. A experiência em gestão de projetos precisa ser mais robusta para atender plenamente aos requisitos da vaga.
+
+Candidato: julia_matos.pdf
+### Análise do Currículo de Júlia Matos
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 60           | 18       | 10.8            |
+| Domínio dos artefatos de projetos                  | 55           | 15       | 8.25            |
+| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 65           | 12       | 7.8             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 60           | 12       | 7.2             |
+| Comunicação e negociação com stakeholders          | 75           | 10       | 7.5             |
+| Condução de reunião e apresentações                | 70           | 7        | 4.9             |
+| Certificações, MBA ou pós-graduação                | 80           | 7        | 5.6             |
 | Habilidade em construção de material para apresentação| 70        | 7        | 4.9             |
-| **Pontuação Final**                                |              |          | **65.15**       |
+| **Pontuação Final**                                |              |          | **65.35**       |
 
 #### Pontos Positivos
-- **Conhecimento em Análise de Dados e Ferramentas**: Aline possui um bom domínio de Excel e Power BI, o que é essencial para a vaga. Ela também tem experiência em análise crítica de resultados e indicadores.
-- **Capacidade de Elaborar Dashboards e Relatórios**: Demonstrou habilidade em criar dashboards e relatórios, o que é um ponto forte para a posição.
-- **Experiência em Governança e Controle**: A experiência em governança e controle de projetos na Telefônica é relevante para a gestão de projetos.
+- Júlia possui uma pós-graduação em Liderança, Inovação e Gestão 4.0, o que demonstra um bom nível de formação acadêmica relevante para a vaga.
+- Experiência em análise de dados e elaboração de relatórios e KPIs, o que é essencial para a função.
+- Boa comunicação e habilidade de negociação com stakeholders, evidenciada por sua atuação como focal regional de Experiência do Cliente.
+- Experiência em apresentações corporativas e criação de materiais em PowerPoint.
 
-#### Lacunas
-- **Conhecimento de Gestão de Projetos**: A experiência direta em gestão de projetos não é claramente destacada, o que pode ser uma lacuna para a vaga.
-- **Certificações**: Não há menção de certificações específicas em gestão de projetos, o que seria um diferencial importante.
-- **Comunicação e Negociação**: Embora tenha experiência em ser interlocutora de temas estratégicos, a habilidade de comunicação e negociação com stakeholders poderia ser mais evidenciada.
+#### Principais Lacunas
+- A experiência direta em gestão de projetos e domínio de artefatos de projetos não é claramente evidenciada no currículo.
+- Não há menção específica ao uso de ferramentas como Power BI, o que pode ser uma lacuna considerando a importância dessas ferramentas para a vaga.
+- A experiência em condução de reuniões e apresentações, embora presente, poderia ser mais detalhada em termos de impacto e resultados.
 
-#### Análise de Trajetória Profissional
-- **Cargo Atual**: Consultora Customer Success Operation II na Telefônica Brasil S/A.
-- **Tempo no Cargo Atual**: Desde dezembro de 2023, após uma promoção.
-- **Última Movimentação**: Promoção dentro da mesma empresa em dezembro de 2023.
-- **Evidência de Instabilidade**: Não há evidência de instabilidade. Aline tem uma trajetória estável na Telefônica, com promoções e movimentações laterais.
-- **Impacto na Aderência à Vaga**: A estabilidade e as promoções recentes indicam um bom desempenho e potencial de crescimento, o que é positivo para a vaga.
+#### Sinais de Instabilidade ou Padrão Atípico
+- Júlia está no cargo atual de Analista de Canal Sênior desde setembro de 2023, o que é um período relativamente curto.
+- A última movimentação foi uma promoção dentro da mesma empresa (Vivo - Grupo Telefônica) em setembro de 2023.
+- Não há evidências de instabilidade significativa, mas a rápida progressão de cargos pode indicar uma trajetória de crescimento acelerado, o que pode ser positivo ou negativo dependendo do contexto organizacional.
 
-### Tabela de Pontuação Final
+#### Impacto na Aderência à Vaga
+- A falta de experiência explícita em gestão de projetos e domínio de artefatos pode impactar a aderência à vaga, que requer experiência comprovada na condução de projetos.
+- A boa formação acadêmica e habilidades em análise de dados são pontos fortes que podem compensar algumas das lacunas, mas a ausência de experiência com ferramentas específicas como Power BI pode ser um desafio.
 
-| Nome do Candidato            | Pontuação Final |
-|------------------------------|-----------------|
-| Aline Micheli Ismael de Sousa| 65.15           |
+### Resumo
+Júlia Matos apresenta um perfil com boas qualificações acadêmicas e experiência em análise de dados e comunicação, mas pode precisar desenvolver mais experiência prática em gestão de projetos e domínio de ferramentas específicas para atender plenamente aos requisitos da vaga.
 
-Aline apresenta um perfil com boas competências em análise de dados e ferramentas, mas poderia melhorar em aspectos específicos de gestão de projetos e certificações. Sua trajetória profissional é estável, o que é um ponto positivo para a vaga.
-
-Candidato: cinthia_nobrega.pdf
-### Análise do Currículo de Cinthia Nobrega
+Candidato: luene_ossuna.pdf
+### Análise do Currículo de Luene Pereira Ossuna
 
 #### Tabela de Pontuação
 
@@ -580,252 +729,68 @@ Candidato: cinthia_nobrega.pdf
 | Conhecimento de gestão de projetos                 | 70           | 18       | 12.6            |
 | Domínio dos artefatos de projetos                  | 65           | 15       | 9.75            |
 | Conhecimento em análise de dados                   | 60           | 12       | 7.2             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 55           | 12       | 6.6             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 60           | 12       | 7.2             |
-| Comunicação e negociação com stakeholders          | 70           | 10       | 7.0             |
-| Condução de reunião e apresentações                | 65           | 7        | 4.55            |
-| Certificações em gestão de projetos e analíticas   | 75           | 7        | 5.25            |
-| Habilidade em construção de material para apresentação| 70        | 7        | 4.9             |
-| **Pontuação Final**                                |              |          | **65.05**       |
+| Domínio de ferramentas de análise (Excel, Power BI)| 50           | 12       | 6.0             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 55           | 12       | 6.6             |
+| Comunicação e negociação com stakeholders          | 75           | 10       | 7.5             |
+| Condução de reunião e apresentações                | 60           | 7        | 4.2             |
+| Certificações, MBA ou pós-graduação                | 0            | 7        | 0.0             |
+| Habilidade em construção de material para apresentação| 65         | 7        | 4.55            |
+| **Pontuação Final**                                |              |          | **58.4**        |
 
 #### Principais Pontos Positivos
-- **Experiência em Gestão de Projetos**: Cinthia possui experiência prática em gestão de projetos, incluindo a aplicação de metodologia ágil e governança, o que é relevante para a vaga.
-- **Certificações e Cursos**: Possui certificações como Yellow Belt e Scrum, além de cursos em Agile Project Management e Design Thinking, que são diferenciais importantes.
-- **Comunicação e Relatórios**: Experiência em comunicação e elaboração de relatórios gerenciais, o que é essencial para a função.
+- **Visão Sistêmica e Avaliação de Impactos**: Luene demonstra uma boa compreensão do desenvolvimento e implantação de projetos, com foco em visão sistêmica e avaliação de impactos, o que é crucial para a gestão de projetos.
+- **Comunicação e Colaboração**: Mostra habilidade em comunicação e colaboração com diversas áreas, o que é essencial para negociação e gestão de stakeholders.
+- **Experiência Prática em Projetos**: Apesar de não possuir certificações, Luene tem experiência prática significativa em projetos, especialmente no setor de telecomunicações.
 
 #### Principais Lacunas
-- **Domínio de Ferramentas de Análise**: Não há menção específica ao uso de Power BI, e o nível de Excel não é detalhado, o que pode ser uma limitação.
-- **Conhecimento em Análise de Dados**: A experiência em análise de dados não é profundamente detalhada, o que pode ser uma área a ser desenvolvida.
-- **Idiomas**: Nível básico em inglês e espanhol pode ser uma limitação dependendo das necessidades de comunicação internacional da empresa.
+- **Certificações e Formação Avançada**: Não possui certificações em gestão de projetos ou formação avançada, como MBA ou pós-graduação, o que é um diferencial importante para a vaga.
+- **Domínio de Ferramentas de Análise**: O conhecimento em Excel é intermediário e não há menção ao uso de Power BI, o que pode ser uma limitação para a análise de dados e elaboração de dashboards.
+- **Experiência em Grandes Fóruns**: Embora tenha experiência na construção de materiais executivos, falta experiência em apresentações em grandes fóruns, o que pode ser necessário para a vaga.
 
-#### Sinais de Instabilidade ou Padrão Atípico
-- **Tempo no Cargo Atual**: Cinthia está no cargo atual de Analista de Logística Pleno desde fevereiro de 2014, o que demonstra estabilidade.
-- **Diferença de Tempo entre Movimentações**: A última movimentação foi em 2014, quando ingressou na Vivo (Telefônica Brasil).
-- **Evidência de Instabilidade**: Não há evidências de instabilidade ou movimentação atípica. A trajetória profissional é estável e consistente.
-- **Impacto na Aderência à Vaga**: A estabilidade na Vivo pode ser vista como um ponto positivo, indicando comprometimento e continuidade em suas funções.
+#### Análise de Trajetória Profissional
+- **Cargo Atual**: Analista Marketing Senior na Vivo desde janeiro de 2023.
+- **Tempo no Cargo Atual**: Aproximadamente 2 anos e 5 meses.
+- **Última Movimentação**: Movimentação lateral em junho de 2025 dentro da mesma empresa.
+- **Evidência de Instabilidade**: Não há evidências claras de instabilidade. A trajetória mostra uma progressão dentro da mesma empresa, o que pode indicar estabilidade e crescimento.
+- **Impacto na Aderência à Vaga**: A falta de certificações e domínio avançado de ferramentas de análise pode impactar a aderência à vaga, mas a experiência prática e habilidades de comunicação são pontos fortes.
 
 ### Resumo
-Cinthia Nobrega apresenta um perfil estável e com experiência relevante em gestão de projetos, embora precise desenvolver mais o domínio de ferramentas de análise de dados. Suas certificações e cursos são diferenciais que podem agregar valor à posição. A pontuação final de 65.05 indica que ela possui um bom alinhamento com os requisitos da vaga, mas há espaço para aprimoramento em algumas áreas técnicas.
+Luene Pereira Ossuna apresenta uma boa experiência prática em gestão de projetos e habilidades de comunicação, mas carece de certificações e domínio avançado de ferramentas de análise, o que pode ser uma limitação para a vaga. A trajetória profissional é estável, com progressão dentro da mesma empresa, o que é positivo.
 
-Candidato: claudiana_rodrigues.pdf
-### Análise do Currículo de Claudiana Rodrigues
+Candidato: luiz_dias.pdf
+### Análise do Currículo de Luiz Dias
 
 #### Tabela de Pontuação
 
 | Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
 |----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 60           | 18       | 10.8            |
-| Domínio dos artefatos de projetos                  | 55           | 15       | 8.25            |
-| Conhecimento em análise de dados                   | 50           | 12       | 6.0             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 60           | 12       | 7.2             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 55           | 12       | 6.6             |
-| Comunicação e negociação com stakeholders          | 65           | 10       | 6.5             |
-| Condução de reunião e apresentações                | 60           | 7        | 4.2             |
-| Certificações em gestão de projetos e analíticas   | 40           | 7        | 2.8             |
-| Habilidade em construção de material para apresentação| 60         | 7        | 4.2             |
-| **Pontuação Final**                                |              |          | **56.55**       |
+| Conhecimento de gestão de projetos                 | 75           | 18       | 13.5            |
+| Domínio dos artefatos de projetos                  | 70           | 15       | 10.5            |
+| Conhecimento em análise de dados                   | 80           | 12       | 9.6             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 85           | 12       | 10.2            |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 80           | 12       | 9.6             |
+| Comunicação e negociação com stakeholders          | 75           | 10       | 7.5             |
+| Condução de reunião e apresentações                | 70           | 7        | 4.9             |
+| Certificações, MBA ou pós-graduação                | 60           | 7        | 4.2             |
+| Habilidade em construção de material para apresentação| 75         | 7        | 5.25            |
+| **Pontuação Final**                                |              |          | **75.25**       |
 
 #### Principais Pontos Positivos
-- **Experiência em Gestão de Projetos**: Claudiana possui experiência em gerenciamento de projetos relacionados à segurança do trabalho, o que demonstra habilidades organizacionais e de liderança.
-- **Domínio de Ferramentas de Análise**: Possui um curso recente em Business Intelligence com Microsoft Power BI, indicando um esforço para se atualizar em ferramentas analíticas.
-- **Comunicação e Negociação**: A experiência em apresentações para aprovação de projetos e negociações com fornecedores sugere boas habilidades de comunicação.
+- **Experiência em Gestão de Projetos**: Luiz tem experiência significativa como Product Owner, onde geriu projetos complexos, como o GPA Digital e Casa do Cliente Pós Venda, demonstrando habilidades em gestão de escopo, cronograma e stakeholders.
+- **Conhecimento em Análise de Dados**: Luiz possui um bom domínio de ferramentas de análise, como Excel e Power BI, e experiência prática na criação de dashboards e relatórios.
+- **Comunicação e Apresentações**: Ele tem experiência em conduzir reuniões e apresentações, além de criar materiais executivos, o que é essencial para a vaga.
 
 #### Principais Lacunas
-- **Foco em Segurança do Trabalho**: A maior parte da experiência de Claudiana está centrada em segurança do trabalho, o que pode limitar sua exposição a uma variedade mais ampla de projetos.
-- **Certificações em Gestão de Projetos**: Não há certificações específicas em gestão de projetos, como PMP ou CAPM, que são diferenciais importantes para a vaga.
-- **Experiência em Análise de Dados**: Embora tenha um curso em Power BI, a experiência prática em análise de dados não é claramente destacada.
+- **Certificações em Gestão de Projetos**: Embora Luiz possua algumas certificações, como Scrum Fundamentals Certified e Six Sigma Yellow Belt, ele não possui certificações específicas em gestão de projetos como PMP ou CAPM, que são diferenciais para a vaga.
+- **Movimentação Profissional**: Luiz teve várias mudanças de cargo em um curto período, o que pode indicar instabilidade. No entanto, ele está há menos de um ano no cargo atual de Analista de Engenharia de Software Jr na Telefônica Brasil.
 
 #### Sinais de Instabilidade ou Padrão Atípico
-- **Tempo no Cargo Atual**: Claudiana está no cargo atual de Analista em Segurança do Trabalho PL desde janeiro de 2021.
-- **Diferença de Tempo entre Movimentações**: A última movimentação foi em janeiro de 2021, dentro da mesma empresa (Telefônica Brasil), quando foi promovida de Técnico em Segurança do Trabalho para Analista em Segurança do Trabalho PL.
-- **Evidência de Instabilidade**: Não há evidências claras de instabilidade, pois as mudanças de cargo ocorreram dentro da mesma empresa e em intervalos razoáveis.
-- **Impacto na Aderência à Vaga**: A experiência focada em segurança do trabalho pode limitar a aplicabilidade direta para uma vaga de gestão de projetos mais ampla, mas a estabilidade na empresa atual é um ponto positivo.
-
-### Resumo
-Claudiana Rodrigues possui uma base sólida em gestão de projetos dentro do contexto de segurança do trabalho, mas pode precisar de mais experiência e certificações específicas em gestão de projetos para se alinhar completamente com a vaga. A estabilidade em sua trajetória profissional é um ponto positivo, mas a especialização em segurança do trabalho pode limitar a aplicabilidade direta para a vaga em questão.
-
-Candidato: fabiana_gonçalves.pdf
-### Análise do Currículo de Fabiana Gonçalves Silva
-
-#### Tabela de Pontuação
-
-| Critério                                         | Nota (0-100) | Peso (%) | Pontuação Total |
-|--------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos               | 40           | 18       | 7.2             |
-| Domínio dos artefatos de projetos                | 30           | 15       | 4.5             |
-| Conhecimento em análise de dados                 | 20           | 12       | 2.4             |
-| Domínio de ferramentas de análise (Excel, Power BI) | 20           | 12       | 2.4             |
-| Capacidade de elaborar dashboards, relatórios e KPIs | 20           | 12       | 2.4             |
-| Comunicação e negociação com stakeholders        | 70           | 10       | 7.0             |
-| Condução de reunião e apresentações              | 60           | 7        | 4.2             |
-| Certificações em gestão de projetos e analíticas | 20           | 7        | 1.4             |
-| Habilidade em construção de material para apresentação | 60           | 7        | 4.2             |
-| **Pontuação Final**                              |              |          | **35.7**        |
-
-#### Principais Pontos Positivos
-- **Comunicação e Negociação**: Fabiana demonstra boa comunicação com stakeholders e experiência em negociação, o que é crucial para a função.
-- **Condução de Reuniões e Apresentações**: Tem experiência em apresentações para altos executivos, o que sugere habilidade em conduzir reuniões e apresentações.
-
-#### Principais Lacunas
-- **Conhecimento de Gestão de Projetos**: A experiência direta em gestão de projetos é limitada, com pouca evidência de condução de projetos complexos.
-- **Domínio de Ferramentas de Análise**: O conhecimento em Excel é básico e não há menção ao uso de Power BI, o que é uma lacuna significativa para a vaga.
-- **Certificações**: Falta de certificações relevantes em gestão de projetos e ferramentas analíticas, que são diferenciais importantes para a vaga.
-
-#### Sinais de Instabilidade ou Padrão Atípico
-- **Tempo no Cargo Atual**: Fabiana está no cargo atual de Advogada Pleno desde outubro de 2020.
-- **Última Movimentação**: A última movimentação foi uma transferência lateral em fevereiro de 2025 dentro da mesma empresa (Telefonica Brasil S.A).
-- **Evidência de Instabilidade**: Não há evidência clara de instabilidade, mas a trajetória profissional é bastante diversificada, com alternância entre áreas de atuação (jurídica, compras, contratos), o que pode indicar uma falta de foco em gestão de projetos.
-- **Impacto na Aderência à Vaga**: A diversidade de experiências pode ser vista como uma vantagem em termos de adaptabilidade, mas a falta de foco específico em gestão de projetos e análise de dados pode impactar negativamente a aderência à vaga.
+- **Tempo no Cargo Atual**: Menos de 1 ano (desde setembro de 2023).
+- **Diferença de Tempo entre Cargos**: A última movimentação foi para a Telefônica Brasil, sem registro de movimentação anterior dentro da mesma empresa.
+- **Impacto na Aderência à Vaga**: A alternância frequente de cargos pode levantar preocupações sobre estabilidade, mas a experiência diversificada pode ser vista como uma vantagem em termos de adaptabilidade e aprendizado rápido.
 
 ### Conclusão
-Fabiana Gonçalves Silva possui habilidades de comunicação e negociação que são valiosas, mas apresenta lacunas significativas em áreas críticas para a vaga, como gestão de projetos e domínio de ferramentas analíticas. A trajetória profissional diversificada pode ser uma vantagem em termos de adaptabilidade, mas a falta de foco específico nas competências exigidas pela vaga pode limitar sua adequação.
-
-Candidato: gabriela_mellatti.pdf
-### Análise do Currículo de Gabriela Mellatti Gomes
-
-#### Tabela de Pontuação
-
-| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
-|----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 30           | 18       | 5.4             |
-| Domínio dos artefatos de projetos                  | 25           | 15       | 3.75            |
-| Conhecimento em análise de dados                   | 40           | 12       | 4.8             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 40           | 12       | 4.8             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 50           | 12       | 6.0             |
-| Comunicação e negociação com stakeholders          | 50           | 10       | 5.0             |
-| Condução de reunião e apresentações                | 50           | 7        | 3.5             |
-| Certificações em gestão de projetos e analíticas   | 20           | 7        | 1.4             |
-| Habilidade em construção de material para apresentação| 60         | 7        | 4.2             |
-| **Pontuação Final**                              |              |          | **38.85**        |
-
-
-#### Principais Pontos Positivos
-- **Capacidade de elaborar dashboards, relatórios e KPIs**: Gabriela demonstrou habilidade em monitorar e analisar KPIs, além de desenvolver planos de ação baseados em dados.
-- **Comunicação e negociação com stakeholders**: Ela tem experiência em desenvolver apresentações para reuniões, o que sugere boa capacidade de comunicação.
-- **Habilidade em construção de material para apresentação**: Gabriela tem experiência em criar apresentações detalhadas para reuniões, o que é um ponto positivo.
-
-#### Principais Lacunas
-- **Conhecimento de gestão de projetos**: A experiência de Gabriela em gestão de projetos é limitada, principalmente em papéis de apoio, como Team Dev.
-- **Domínio dos artefatos de projetos**: Não há evidências de experiência prática com artefatos de projetos como riscos, cronograma e escopo.
-- **Certificações em gestão de projetos e analíticas**: Possui apenas uma certificação em Metodologia Ágil, o que é limitado para a vaga.
-
-#### Análise de Trajetória Profissional
-- **Cargo Atual**: Consultor Customer Success Implement I
-- **Tempo no Cargo Atual**: Desde 11/2022
-- **Última Movimentação**: 03/2024, movimentação lateral dentro da mesma empresa (Vivo | Telefônica Brasil)
-- **Evidência de Instabilidade**: Não há evidências claras de instabilidade, mas a experiência é limitada a um papel de estagiária e uma posição de consultor em um curto período.
-- **Impacto na Aderência à Vaga**: A experiência limitada em gestão de projetos e a falta de certificações relevantes podem impactar negativamente a aderência à vaga. Gabriela pode precisar de mais experiência prática e certificações para se alinhar melhor aos requisitos da posição.
-
-Candidato: hugo_felix.pdf
-### Análise do Currículo de Hugo Felix
-
-#### Tabela de Pontuação
-
-| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
-|----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 40           | 18       | 7.2             |
-| Domínio dos artefatos de projetos                  | 30           | 15       | 4.5             |
-| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 60           | 12       | 7.2             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 65           | 12       | 7.8             |
-| Comunicação e negociação com stakeholders          | 50           | 10       | 5.0             |
-| Condução de reunião e apresentações                | 55           | 7        | 3.85            |
-| Certificações em gestão de projetos e analíticas   | 20           | 7        | 1.4             |
-| Habilidade em construção de material para apresentação| 60         | 7        | 4.2             |
-| **Pontuação Final**                                |              |          | **49.55**       |
-
-#### Principais Pontos Positivos
-- **Conhecimento em Análise de Dados**: Hugo demonstra um bom nível de conhecimento em análise de dados, com experiência em SQL e Power BI, o que é relevante para a vaga.
-- **Capacidade de Elaborar Dashboards e Relatórios**: Ele tem experiência na construção de painéis em Power BI, o que é um ponto positivo para a função.
-- **Experiência em Construção de Materiais Executivos**: Hugo menciona a construção de materiais executivos para apresentações em fóruns de gerência e diretoria, o que é relevante para a vaga.
-
-#### Principais Lacunas
-- **Conhecimento de Gestão de Projetos**: A experiência de Hugo em gestão de projetos é limitada, com pouca evidência de condução de projetos complexos ou de alta complexidade.
-- **Domínio dos Artefatos de Projetos**: Não há menção clara de experiência com gestão de riscos, cronogramas ou escopo, o que é uma lacuna significativa.
-- **Certificações em Gestão de Projetos**: Hugo possui apenas uma certificação Yellow Belt, que não é diretamente relacionada à gestão de projetos.
-
-#### Análise de Trajetória Profissional
-- **Cargo Atual**: Analista Suporte Operação Jr na Telefônica desde 12/2020.
-- **Tempo no Cargo Atual**: Aproximadamente 3 anos.
-- **Última Movimentação**: Movimentação lateral em 11/2023 dentro da mesma empresa.
-- **Evidência de Instabilidade**: Não há evidência de instabilidade significativa. Hugo tem permanecido em cargos por períodos razoáveis e teve uma promoção em 02/2023.
-- **Impacto na Aderência à Vaga**: A falta de experiência direta em gestão de projetos e artefatos pode impactar negativamente sua aderência à vaga, apesar de sua estabilidade profissional.
-
-### Resumo
-Hugo Felix apresenta um perfil técnico com forte conhecimento em análise de dados e ferramentas de visualização, mas carece de experiência robusta em gestão de projetos e domínio dos artefatos de projetos. Sua trajetória profissional é estável, mas a falta de certificações relevantes e experiência direta em gestão de projetos complexos pode limitar sua adequação à vaga.
-
-Candidato: jessica_castro.pdf
-### Análise do Currículo de Jessica Castro
-
-#### Tabela de Pontuação
-
-| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
-|----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 85           | 18       | 15.3            |
-| Domínio dos artefatos de projetos                  | 80           | 15       | 12.0            |
-| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 65           | 12       | 7.8             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 75           | 12       | 9.0             |
-| Comunicação e negociação com stakeholders          | 90           | 10       | 9.0             |
-| Condução de reunião e apresentações                | 85           | 7        | 5.95            |
-| Certificações em gestão de projetos e analíticas   | 60           | 7        | 4.2             |
-| Habilidade em construção de material para apresentação| 80         | 7        | 5.6             |
-| **Pontuação Final**                                |              |          | **77.25**       |
-
-#### Principais Pontos Positivos
-- **Experiência em Transformação Digital**: Jessica tem uma sólida experiência em liderar iniciativas de transformação digital, o que é um diferencial importante para a vaga.
-- **Comunicação e Negociação**: Demonstrou forte habilidade em comunicação e negociação com stakeholders, essencial para o sucesso em gestão de projetos.
-- **Condução de Reuniões**: Experiência comprovada na condução de reuniões estratégicas e elaboração de business cases.
-
-#### Principais Lacunas
-- **Certificações em Gestão de Projetos**: Embora tenha várias certificações, não há menção de certificações específicas como PMP ou CAPM, que são diferenciais para a vaga.
-- **Domínio de Ferramentas de Análise**: A experiência com ferramentas como Excel e Power BI não é destacada, o que pode ser uma área de melhoria.
-
-#### Análise de Trajetória Profissional
-- **Cargo Atual**: Agile Coach na Vivo desde 09/2022.
-- **Tempo no Cargo Atual**: Aproximadamente 1 ano.
-- **Última Movimentação**: De Consultora Estratégica Salesforce no Grupo Elfa para Agile Coach na Vivo.
-- **Evidência de Instabilidade**: Não há evidência clara de instabilidade, mas a mudança de áreas (de consultoria estratégica para Agile Coach) pode indicar uma busca por novos desafios ou uma adaptação ao mercado.
-- **Impacto na Aderência à Vaga**: A trajetória mostra uma evolução consistente em responsabilidades e complexidade dos projetos, o que é positivo para a vaga. No entanto, a falta de certificações específicas em gestão de projetos pode ser uma desvantagem.
-
-### Resumo
-Jessica Castro apresenta um perfil forte em transformação digital e comunicação, com experiência relevante em gestão de projetos. No entanto, a ausência de certificações específicas em gestão de projetos e a falta de destaque no uso de ferramentas de análise podem ser áreas a serem desenvolvidas para melhor aderência à vaga.
-
-Candidato: jonas_ferreira.pdf
-### Análise do Currículo de Jonas Ferreira Feitoza Rodrigues
-
-#### Tabela de Pontuação
-
-| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
-|----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 60           | 18       | 10.8            |
-| Domínio dos artefatos de projetos                  | 70           | 15       | 10.5            |
-| Conhecimento em análise de dados                   | 50           | 12       | 6.0             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 40           | 12       | 4.8             |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 40           | 12       | 4.8             |
-| Comunicação e negociação com stakeholders          | 65           | 10       | 6.5             |
-| Condução de reunião e apresentações                | 60           | 7        | 4.2             |
-| Certificações em gestão de projetos e analíticas   | 50           | 7        | 3.5             |
-| Habilidade em construção de material para apresentação| 55         | 7        | 3.85            |
-| **Pontuação Final**                                |              |          | **55.95**       |
-
-#### Principais Pontos Positivos
-- **Experiência em Projetos Complexos**: Jonas tem experiência em projetos de alta complexidade, especialmente em implantações na Rede de Core PS, o que é relevante para a vaga.
-- **Comunicação e Negociação**: Demonstrou habilidades de comunicação e negociação com stakeholders, o que é crucial para a função.
-- **Certificações**: Possui certificação Lean Six Sigma Yellow Belt, o que é um diferencial.
-
-#### Principais Lacunas
-- **Conhecimento em Análise de Dados e Ferramentas**: O conhecimento em análise de dados e ferramentas como Excel e Power BI é básico, o que pode ser uma limitação para a vaga.
-- **Elaboração de Dashboards e Relatórios**: A capacidade de elaborar dashboards e relatórios não está bem desenvolvida, o que é uma exigência da vaga.
-- **Certificações em Gestão de Projetos**: Não possui certificações específicas em gestão de projetos como PMP ou CAPM, que são diferenciais importantes.
-
-#### Sinais de Instabilidade ou Padrão Atípico
-- **Tempo no Cargo Atual**: Jonas está no cargo atual de Analista Telecom Pleno desde janeiro de 2022, o que indica estabilidade.
-- **Movimentação Anterior**: A última movimentação foi para a Vivo, sem registro de promoções ou movimentações internas desde então.
-- **Impacto na Aderência à Vaga**: A estabilidade no cargo atual é positiva, mas a falta de evolução em certificações específicas e habilidades analíticas pode impactar a aderência à vaga.
-
-### Resumo
-Jonas Ferreira Feitoza Rodrigues apresenta uma experiência sólida em projetos complexos e habilidades de comunicação, mas possui lacunas significativas em análise de dados e ferramentas analíticas, além de não possuir certificações específicas em gestão de projetos. A estabilidade no cargo atual é um ponto positivo, mas a falta de evolução em áreas críticas para a vaga pode ser um desafio.
+Luiz Dias apresenta um perfil sólido para a vaga, com experiência relevante em gestão de projetos e análise de dados. No entanto, a falta de certificações específicas em gestão de projetos e a movimentação frequente de cargos podem ser pontos de atenção. A pontuação final de 75.25 indica que ele é um candidato competitivo, mas pode haver candidatos com perfis mais alinhados em termos de estabilidade e certificações.
 
 Candidato: melissa_nobre.pdf
 ### Análise do Currículo de Melissa Silva Nobre
@@ -834,37 +799,185 @@ Candidato: melissa_nobre.pdf
 
 | Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
 |----------------------------------------------------|--------------|----------|-----------------|
-| Conhecimento de gestão de projetos                 | 40           | 18       | 7.2             |
-| Domínio dos artefatos de projetos                  | 50           | 15       | 7.5             |
+| Conhecimento de gestão de projetos                 | 50           | 18       | 9               |
+| Domínio dos artefatos de projetos                  | 40           | 15       | 6               |
 | Conhecimento em análise de dados                   | 60           | 12       | 7.2             |
-| Domínio de ferramentas de análise (Excel, Power BI)| 50           | 12       | 6.0             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 50           | 12       | 6               |
 | Capacidade de elaborar dashboards, relatórios e KPIs| 40           | 12       | 4.8             |
-| Comunicação e negociação com stakeholders          | 60           | 10       | 6.0             |
+| Comunicação e negociação com stakeholders          | 60           | 10       | 6               |
 | Condução de reunião e apresentações                | 50           | 7        | 3.5             |
-| Certificações em gestão de projetos e analíticas   | 60           | 7        | 4.2             |
+| Certificações, MBA ou pós-graduação                | 70           | 7        | 4.9             |
 | Habilidade em construção de material para apresentação| 50         | 7        | 3.5             |
-| **Pontuação Final**                                |              |          | **49.9**        |
+| **Pontuação Final**                                |              |          | **50.9**        |
 
 #### Principais Pontos Positivos
-- **Experiência em Projetos:** Melissa tem experiência em monitoramento e acompanhamento de atividades de projetos, além de correção de bugs e análises, o que demonstra uma base em gestão de projetos.
-- **Ferramentas de Gestão:** Familiaridade com ferramentas como Jira, Monday e Trello para construção e acompanhamento de cronogramas.
-- **Comunicação e Apresentações:** Participação em fóruns de alinhamento semanal, o que sugere habilidades de comunicação e apresentação.
+- **Educação em Andamento**: Melissa está cursando um MBA em gerenciamento de projetos, o que demonstra interesse e investimento em sua formação na área.
+- **Experiência em Projetos**: Participação em projetos como o "Projeto Fênix" e interface com várias áreas da Vivo, o que sugere alguma experiência prática.
+- **Conhecimento em Metodologias Ágeis**: Experiência com Scrum e Kanban, que são relevantes para a gestão de projetos.
 
 #### Principais Lacunas
-- **Profundidade em Gestão de Projetos:** A experiência em gestão de projetos parece ser limitada a atividades de suporte e monitoramento, sem evidência de liderança ou gestão integral de projetos complexos.
-- **Análise de Dados e Ferramentas:** Conhecimento intermediário em Excel e ausência de menção ao uso de Power BI, o que pode ser uma limitação para a vaga.
-- **Certificações:** Embora tenha um MBA em gerenciamento de projetos, não há menção a certificações específicas como PMP ou CAPM, que são diferenciais para a vaga.
+- **Experiência Limitada em Gestão de Projetos**: A experiência de Melissa parece ser mais técnica e menos focada em gestão de projetos, com pouca evidência de liderança em projetos complexos.
+- **Domínio de Ferramentas de Análise**: Conhecimento intermediário em Excel e falta de menção ao Power BI, que são cruciais para a vaga.
+- **Elaboração de Dashboards e Relatórios**: Não há menção clara de experiência significativa na criação de dashboards ou relatórios complexos.
+- **Certificações**: Embora esteja cursando um MBA, não possui certificações específicas em gestão de projetos ou ferramentas analíticas.
 
 #### Sinais de Instabilidade ou Padrão Atípico
-- **Tempo no Cargo Atual:** Melissa está no cargo atual de Analista de Telecom Jr desde julho de 2023.
-- **Diferença de Tempo entre Movimentações:** A última movimentação foi de estagiária para analista dentro da mesma empresa (Telefônica Brasil) em julho de 2023.
-- **Evidência de Instabilidade:** Não há evidência clara de instabilidade, mas a trajetória profissional é relativamente curta e com mudanças rápidas de função, o que pode indicar uma fase inicial de carreira ainda em desenvolvimento.
+- **Tempo no Cargo Atual**: Melissa está no cargo atual de Analista de Telecom Jr desde julho de 2023, o que é um período relativamente curto.
+- **Movimentação Anterior**: A última movimentação foi de estagiária para analista dentro da mesma empresa (Telefônica Brasil).
+- **Histórico Profissional**: Melissa teve várias mudanças de emprego em um curto período, mas isso pode ser justificado pela transição de estágio para um cargo efetivo.
+- **Impacto na Aderência à Vaga**: A curta duração no cargo atual e a falta de experiência robusta em gestão de projetos podem impactar negativamente sua aderência à vaga, que requer experiência comprovada na condução de projetos complexos.
 
-#### Impacto na Aderência à Vaga
-- **Aderência Parcial:** Melissa possui algumas competências relevantes, mas a falta de experiência mais robusta em gestão de projetos e análise de dados pode limitar sua adequação à vaga. A trajetória profissional ainda em desenvolvimento pode ser um ponto de atenção, mas também uma oportunidade de crescimento se houver suporte adequado.
+### Resumo
+Melissa Silva Nobre demonstra potencial e interesse em gestão de projetos, mas sua experiência prática e domínio de ferramentas analíticas ainda são limitados. A continuidade no MBA pode melhorar sua qualificação, mas atualmente, ela pode não atender completamente aos requisitos da vaga.
 
-Candidato: raphael_gomes.pdf
-### Análise do Currículo de Raphael Gomes
+Candidato: patrick_silva.pdf
+### Análise do Currículo de Patrick Oliveira Hermann da Silva
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 60           | 18       | 10.8            |
+| Domínio dos artefatos de projetos                  | 55           | 15       | 8.25            |
+| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
+| Domínio de ferramentas de análise                  | 75           | 12       | 9               |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 65           | 12       | 7.8             |
+| Comunicação e negociação com stakeholders          | 60           | 10       | 6               |
+| Condução de reunião e apresentações                | 60           | 7        | 4.2             |
+| Certificações, MBA ou pós-graduação                | 50           | 7        | 3.5             |
+| Habilidade em construção de material para apresentação| 60         | 7        | 4.2             |
+| **Pontuação Final**                                |              |          | **62.15**       |
+
+#### Principais Pontos Positivos
+- **Experiência em Projetos de Alta Complexidade**: Patrick possui experiência em projetos complexos, como a implantação de e-commerce B2B e integração de ERP, o que demonstra capacidade de lidar com desafios significativos.
+- **Conhecimento em Ferramentas de Análise**: Possui certificações em Power BI e experiência prática com ferramentas como MySQL, BigQuery, e Python, o que é relevante para a vaga.
+- **Participação em Projetos Estratégicos**: Envolvimento em projetos estratégicos na Vivo, como o Projeto Farol e Gestor B2B, mostra capacidade de adaptação e visão estratégica.
+
+#### Principais Lacunas
+- **Experiência Limitada em Gestão de Projetos**: Como estagiário, a experiência de Patrick em gestão de projetos é limitada, o que pode impactar sua capacidade de assumir responsabilidades mais complexas.
+- **Certificações em Gestão de Projetos**: Embora tenha algumas certificações, falta uma certificação robusta como PMP ou CAPM, que são diferenciais importantes para a vaga.
+- **Comunicação e Negociação**: A experiência em comunicação e negociação com stakeholders é mencionada, mas pode ser limitada devido à posição atual de estagiário.
+
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Patrick está no cargo atual de estagiário desde março de 2024, o que é um período relativamente curto.
+- **Movimentação Atípica**: Houve movimentações laterais frequentes dentro da Vivo, o que pode indicar uma busca por estabilidade ou crescimento rápido.
+- **Impacto na Aderência à Vaga**: A curta duração no cargo atual e as movimentações frequentes podem indicar uma falta de experiência consolidada em uma única função, o que pode ser uma desvantagem para a vaga que requer experiência comprovada.
+
+### Resumo
+Patrick possui um perfil técnico forte, com experiência em análise de dados e ferramentas de análise, além de participação em projetos complexos. No entanto, sua experiência em gestão de projetos é limitada devido à sua posição atual de estagiário, e ele pode precisar de mais tempo para desenvolver habilidades de liderança e comunicação necessárias para a vaga. As movimentações frequentes podem ser vistas como um sinal de instabilidade, mas também podem indicar uma busca por crescimento e aprendizado.
+
+Candidato: pedro_damaceno.pdf
+### Análise do Currículo de Pedro Cesar Lins Damaceno
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 85           | 18       | 15.3            |
+| Domínio dos artefatos de projetos                  | 80           | 15       | 12.0            |
+| Conhecimento em análise de dados                   | 75           | 12       | 9.0             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 90           | 12       | 10.8            |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 85           | 12       | 10.2            |
+| Comunicação e negociação com stakeholders          | 80           | 10       | 8.0             |
+| Condução de reunião e apresentações                | 80           | 7        | 5.6             |
+| Certificações, MBA ou pós-graduação                | 70           | 7        | 4.9             |
+| Habilidade em construção de material para apresentação| 85         | 7        | 5.95            |
+| **Pontuação Final**                                |              |          | **81.75**       |
+
+#### Principais Pontos Positivos
+- **Experiência em Gestão de Projetos**: Pedro possui uma experiência sólida em gestão de projetos, especialmente em grandes empresas e projetos de alta complexidade, como a implantação de links de dados para agências lotéricas.
+- **Domínio de Ferramentas de Análise**: Demonstrou forte conhecimento em Excel e Power BI, com cursos específicos que reforçam essa competência.
+- **Comunicação e Apresentações**: Experiência em conduzir reuniões e apresentações, além de elaborar relatórios executivos em PowerPoint e Power BI.
+
+#### Principais Lacunas
+- **Certificações em Gestão de Projetos**: Embora possua algumas certificações, como Scrum e Kanban, a ausência de certificações mais reconhecidas como PMP ou CAPM pode ser uma lacuna.
+- **Movimentação Atípica**: Houve movimentações laterais recentes dentro da mesma empresa, o que pode indicar uma falta de progressão vertical.
+
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Pedro está no cargo atual desde 2012, o que demonstra estabilidade.
+- **Última Movimentação**: A última movimentação foi uma transferência lateral dentro da mesma empresa em junho de 2025.
+- **Impacto na Aderência à Vaga**: A estabilidade no emprego atual é um ponto positivo, mas a falta de progressão vertical pode ser vista como uma limitação em termos de crescimento e desenvolvimento de carreira.
+
+### Resumo
+Pedro Cesar Lins Damaceno apresenta um perfil sólido para a vaga, com forte experiência em gestão de projetos e domínio de ferramentas analíticas. No entanto, a falta de certificações mais reconhecidas em gestão de projetos e a ausência de progressão vertical recente podem ser áreas de melhoria. A pontuação final de 81.75 indica uma boa aderência aos requisitos da vaga.
+
+Candidato: rafaela_serrano.pdf
+### Análise do Currículo de Rafaela Serrano
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 80           | 18       | 14.4            |
+| Domínio dos artefatos de projetos                  | 75           | 15       | 11.25           |
+| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 85           | 12       | 10.2            |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 75           | 12       | 9               |
+| Comunicação e negociação com stakeholders          | 70           | 10       | 7               |
+| Condução de reunião e apresentações                | 70           | 7        | 4.9             |
+| Certificações, MBA ou pós-graduação                | 60           | 7        | 4.2             |
+| Habilidade em construção de material para apresentação| 70        | 7        | 4.9             |
+| **Pontuação Final**                                |              |          | **74.25**       |
+
+#### Principais Pontos Positivos
+- **Experiência em Gestão de Projetos**: Rafaela possui uma sólida experiência em gestão de projetos, especialmente no setor de telecomunicações, o que é relevante para a vaga.
+- **Domínio de Ferramentas de Análise**: Possui certificação em Power BI e conhecimento avançado em Excel, o que é um diferencial importante.
+- **Certificações**: Possui certificação em Scrum, o que demonstra um conhecimento em metodologias ágeis.
+
+#### Principais Lacunas
+- **Comunicação e Negociação**: Embora tenha experiência, a descrição das habilidades de comunicação e negociação com stakeholders não é detalhada.
+- **Certificações Avançadas**: Não possui certificações como PMP ou MBA, que são diferenciais importantes para a vaga.
+- **Inglês Básico**: O nível de inglês é básico, o que pode ser uma limitação dependendo das necessidades da empresa.
+
+#### Análise de Trajetória Profissional
+- **Tempo no Cargo Atual**: Rafaela está no cargo atual de Analista de Projetos Pleno desde dezembro de 2020.
+- **Última Movimentação**: A última movimentação foi uma movimentação lateral dentro da mesma empresa em janeiro de 2025.
+- **Evidência de Instabilidade**: Não há evidências significativas de instabilidade. As movimentações são dentro da mesma empresa e não indicam alternância rápida entre áreas ou regressão de cargos.
+- **Impacto na Aderência à Vaga**: A trajetória profissional de Rafaela é estável e consistente com a área de gestão de projetos, o que é positivo para a aderência à vaga.
+
+### Resumo
+Rafaela Serrano apresenta uma boa adequação à vaga, com experiência relevante em gestão de projetos e domínio de ferramentas de análise. No entanto, a falta de certificações avançadas e o nível básico de inglês são áreas que podem ser melhoradas. A trajetória profissional é estável, o que sugere uma boa aderência à vaga.
+
+Candidato: raphael_almeida.pdf
+### Análise do Currículo de Raphael Lima Soares de Almeida
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 85           | 18       | 15.3            |
+| Domínio dos artefatos de projetos                  | 80           | 15       | 12.0            |
+| Conhecimento em análise de dados                   | 90           | 12       | 10.8            |
+| Domínio de ferramentas de análise (Excel, Power BI)| 85           | 12       | 10.2            |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 85           | 12       | 10.2            |
+| Comunicação e negociação com stakeholders          | 80           | 10       | 8.0             |
+| Condução de reunião e apresentações                | 80           | 7        | 5.6             |
+| Certificações, MBA ou pós-graduação                | 90           | 7        | 6.3             |
+| Habilidade em construção de material para apresentação| 85         | 7        | 5.95            |
+| **Pontuação Final**                                |              |          | **84.35**       |
+
+#### Principais Pontos Positivos
+- **Experiência em Gestão de Projetos**: Raphael possui experiência significativa na condução de projetos complexos, como evidenciado por sua atuação em projetos regulatórios e de infraestrutura de redes.
+- **Análise de Dados e Ferramentas**: Demonstrou forte habilidade analítica e domínio de ferramentas como Excel e Power BI, essenciais para a função.
+- **Comunicação e Apresentações**: Tem experiência em elaborar materiais executivos e conduzir apresentações em fóruns estratégicos, o que é crucial para a comunicação com stakeholders.
+- **Certificações e Formação**: Possui MBA em Gestão de Negócios e certificações relevantes, como Lean Six Sigma, que são diferenciais importantes.
+
+#### Principais Lacunas
+- **Foco em Marketing e Qualidade**: Embora tenha experiência em gestão de projetos, grande parte de sua carreira foi focada em marketing e qualidade, o que pode indicar uma menor exposição a projetos puramente técnicos ou de TI.
+- **Movimentação Atípica**: Raphael teve uma movimentação lateral recente, o que pode indicar uma busca por novas oportunidades ou desafios, mas também pode ser visto como instabilidade dependendo do contexto.
+
+#### Análise de Trajetória Profissional
+- **Cargo Atual**: Analista de Projetos SR na Telefônica Brasil desde 12/2022.
+- **Tempo no Cargo Atual**: Aproximadamente 2 anos e 6 meses.
+- **Última Movimentação**: Movimentação lateral em 11/2024 dentro da mesma empresa.
+- **Evidência de Instabilidade**: Não há evidência clara de instabilidade, mas a movimentação lateral recente pode ser um ponto de atenção.
+- **Impacto na Aderência à Vaga**: A experiência diversificada pode ser uma vantagem, mas a recente movimentação lateral pode levantar questões sobre estabilidade e foco de carreira.
+
+### Resumo
+Raphael Lima Soares de Almeida apresenta um perfil forte para a vaga, com uma pontuação final de 84.35. Sua experiência em gestão de projetos, análise de dados e comunicação são pontos fortes. No entanto, a recente movimentação lateral e o foco anterior em marketing e qualidade podem ser áreas de atenção. Ele é um candidato competitivo, mas a empresa deve considerar a estabilidade e o alinhamento de longo prazo com a função.
+
+Candidato: raphael_fulini.pdf
+### Análise do Currículo de Raphael Gonçalves Fulini
 
 #### Tabela de Pontuação
 
@@ -872,36 +985,71 @@ Candidato: raphael_gomes.pdf
 |----------------------------------------------------|--------------|----------|-----------------|
 | Conhecimento de gestão de projetos                 | 70           | 18       | 12.6            |
 | Domínio dos artefatos de projetos                  | 65           | 15       | 9.75            |
-| Conhecimento em análise de dados                   | 85           | 12       | 10.2            |
-| Domínio de ferramentas de análise (Excel, Power BI)| 90           | 12       | 10.8            |
-| Capacidade de elaborar dashboards, relatórios e KPIs| 80           | 12       | 9.6             |
+| Conhecimento em análise de dados                   | 60           | 12       | 7.2             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 60           | 12       | 7.2             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 55           | 12       | 6.6             |
 | Comunicação e negociação com stakeholders          | 75           | 10       | 7.5             |
 | Condução de reunião e apresentações                | 70           | 7        | 4.9             |
-| Certificações em gestão de projetos e analíticas   | 60           | 7        | 4.2             |
-| Habilidade em construção de material para apresentação| 75        | 7        | 5.25            |
-| **Pontuação Final**                                |              |          | **74.8**        |
+| Certificações, MBA ou pós-graduação                | 30           | 7        | 2.1             |
+| Habilidade em construção de material para apresentação| 70         | 7        | 4.9             |
+| **Pontuação Final**                                |              |          | **62.75**       |
 
 #### Principais Pontos Positivos
-- **Conhecimento em Análise de Dados**: Raphael demonstra forte capacidade analítica, com experiência em consolidação e interpretação de grandes volumes de dados, o que é essencial para a vaga.
-- **Domínio de Ferramentas de Análise**: Possui cursos em Power BI e Excel avançado, indicando um bom domínio dessas ferramentas, que são cruciais para a função.
-- **Experiência Multidisciplinar**: Sua trajetória em diferentes áreas (engenharia, logística, segurança e planejamento comercial) sugere uma visão sistêmica e capacidade de colaboração entre áreas.
+- **Experiência em Gestão de Projetos**: Raphael tem experiência prática na condução de projetos, especialmente em ambientes complexos como a Sala de Comando, o que demonstra capacidade de lidar com múltiplas áreas e stakeholders.
+- **Comunicação e Negociação**: A experiência com contato direto com clientes e gerentes de venda sugere boas habilidades de comunicação e negociação.
+- **Condução de Reuniões e Apresentações**: Apresenta materiais semanalmente para gestores, indicando prática em apresentações.
 
 #### Principais Lacunas
-- **Conhecimento de Gestão de Projetos**: Embora tenha experiência em projetos de melhoria contínua, falta uma experiência mais direta e comprovada em gestão de projetos, conforme exigido pela vaga.
-- **Certificações em Gestão de Projetos**: Não possui certificações específicas em gestão de projetos, como PMP ou CAPM, que são diferenciais importantes para a vaga.
+- **Certificações em Gestão de Projetos**: Falta de certificações formais em gestão de projetos, o que pode ser um diferencial importante para a vaga.
+- **Conhecimento em Ferramentas de Análise**: Embora tenha conhecimento intermediário em Excel, não há menção ao uso de Power BI ou outras ferramentas avançadas de análise.
+- **Elaboração de Dashboards e Relatórios**: Não há evidências claras de experiência na criação de dashboards ou relatórios complexos.
 
-#### Análise de Trajetória Profissional
-- **Cargo Atual**: Analista de Planejamento Comercial na Telefônica Brasil SA desde 07/2022.
-- **Tempo no Cargo Atual**: Aproximadamente 2 anos e 8 meses.
-- **Última Movimentação**: Vinda de outra empresa (JSL SA) em 07/2022.
-- **Evidência de Instabilidade**: Não há evidências claras de instabilidade. Raphael tem permanecido em cargos por períodos razoáveis, com uma progressão de responsabilidades.
-- **Impacto na Aderência à Vaga**: A trajetória de Raphael não apresenta sinais de instabilidade que impactariam negativamente sua aderência à vaga. No entanto, a falta de certificações específicas em gestão de projetos pode ser uma desvantagem.
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Raphael está no cargo atual desde outubro de 2018, o que demonstra estabilidade.
+- **Movimentações Recentes**: Houve movimentações laterais em 2023 e 2025 dentro da mesma empresa, o que pode indicar reorganizações internas, mas não necessariamente instabilidade.
+- **Impacto na Aderência à Vaga**: A estabilidade no cargo atual é positiva, mas a falta de certificações e experiência com ferramentas de análise avançadas pode impactar a aderência à vaga.
 
 ### Resumo
-Raphael Gomes apresenta um perfil analítico e organizado, com forte domínio de ferramentas de análise de dados, o que é altamente relevante para a vaga. No entanto, a falta de experiência direta em gestão de projetos e certificações específicas pode ser uma limitação. Sua trajetória profissional é estável, sem sinais de instabilidade que comprometam sua candidatura.
+Raphael Gonçalves Fulini apresenta uma boa base em gestão de projetos e comunicação, mas carece de certificações formais e experiência com ferramentas de análise avançadas, o que são diferenciais importantes para a vaga. A estabilidade no cargo atual é um ponto positivo, mas as movimentações laterais recentes devem ser investigadas para entender melhor o contexto.
 
-Candidato: yasmim_aparecida.pdf
-### Análise do Currículo de Yasmim Aparecida
+Candidato: ricardo_hiju.pdf
+### Análise do Currículo de Ricardo Morihide Hiju
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 75           | 18       | 13.5            |
+| Domínio dos artefatos de projetos                  | 70           | 15       | 10.5            |
+| Conhecimento em análise de dados                   | 60           | 12       | 7.2             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 65           | 12       | 7.8             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 70           | 12       | 8.4             |
+| Comunicação e negociação com stakeholders          | 80           | 10       | 8.0             |
+| Condução de reunião e apresentações                | 75           | 7        | 5.25            |
+| Certificações, MBA ou pós-graduação                | 50           | 7        | 3.5             |
+| Habilidade em construção de material para apresentação| 70         | 7        | 4.9             |
+| **Pontuação Final**                                |              |          | **69.05**       |
+
+#### Principais Pontos Positivos
+- **Experiência em Gestão de Projetos**: Ricardo possui experiência significativa em gestão de projetos de infraestrutura de redes e tecnologias emergentes, especialmente em ambientes de alta complexidade como 5G.
+- **Comunicação e Negociação**: Demonstrou habilidades sólidas em comunicação e negociação com stakeholders, o que é crucial para a função.
+- **Condução de Reuniões e Apresentações**: Tem experiência em conduzir reuniões e apresentações, o que é um ponto forte para a vaga.
+
+#### Principais Lacunas
+- **Certificações em Gestão de Projetos**: Apesar de ter um Yellow Belt em Lean Six Sigma, faltam certificações mais robustas em gestão de projetos como PMP ou CAPM.
+- **Conhecimento em Análise de Dados e Ferramentas**: O conhecimento em análise de dados e ferramentas como Excel e Power BI é intermediário, o que pode ser uma limitação para a vaga.
+- **Formação Acadêmica**: A pós-graduação em Neurociência Educacional e Clínica não está diretamente relacionada à gestão de projetos ou análise de dados.
+
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Ricardo está no cargo atual de Analista em Telecomunicações desde 10/2018.
+- **Movimentações Recentes**: Houve movimentações laterais em 2024 e 2025 dentro da mesma empresa (VIVO), o que pode indicar uma falta de progressão vertical.
+- **Impacto na Aderência à Vaga**: A falta de progressão vertical pode ser um sinal de que ele não está sendo considerado para cargos de maior responsabilidade, o que pode impactar sua adequação para a vaga que exige experiência comprovada em condução de projetos.
+
+### Conclusão
+Ricardo Morihide Hiju possui uma base sólida em gestão de projetos e comunicação, mas apresenta algumas lacunas em certificações específicas e domínio de ferramentas analíticas. A falta de progressão vertical recente pode ser um ponto de atenção, mas sua experiência em ambientes complexos e habilidades de comunicação são pontos fortes que podem ser valiosos para a vaga.
+
+Candidato: rudnei_silva.pdf
+### Análise do Currículo de Rudnei Marllo Rodrigues da Silva
 
 #### Tabela de Pontuação
 
@@ -909,60 +1057,211 @@ Candidato: yasmim_aparecida.pdf
 |----------------------------------------------------|--------------|----------|-----------------|
 | Conhecimento de gestão de projetos                 | 40           | 18       | 7.2             |
 | Domínio dos artefatos de projetos                  | 30           | 15       | 4.5             |
-| Conhecimento em análise de dados                   | 50           | 12       | 6.0             |
+| Conhecimento em análise de dados                   | 20           | 12       | 2.4             |
 | Domínio de ferramentas de análise (Excel, Power BI)| 20           | 12       | 2.4             |
 | Capacidade de elaborar dashboards, relatórios e KPIs| 20           | 12       | 2.4             |
-| Comunicação e negociação com stakeholders          | 60           | 10       | 6.0             |
-| Condução de reunião e apresentações                | 50           | 7        | 3.5             |
-| Certificações em gestão de projetos e analíticas   | 40           | 7        | 2.8             |
+| Comunicação e negociação com stakeholders          | 50           | 10       | 5.0             |
+| Condução de reunião e apresentações                | 40           | 7        | 2.8             |
+| Certificações, MBA ou pós-graduação                | 70           | 7        | 4.9             |
 | Habilidade em construção de material para apresentação| 30         | 7        | 2.1             |
-| **Pontuação Final**                                |              |          | **36.9**        |
+| **Pontuação Final**                                |              |          | **33.7**        |
 
 #### Principais Pontos Positivos
-- **Comunicação e Negociação com Stakeholders**: Yasmim tem experiência como Team Leader, o que sugere habilidades em comunicação e negociação.
-- **Certificações**: Possui certificações relevantes como Lean Six Sigma Green Belt, que demonstra conhecimento em melhoria de processos e projetos.
+- **Experiência Técnica:** Rudnei possui uma sólida experiência técnica em telecomunicações, especialmente em operação e manutenção de redes móveis, o que demonstra uma capacidade de lidar com sistemas complexos e equipes multidisciplinares.
+- **Educação:** Está cursando um MBA em Gestão de Projetos com IA, o que indica um esforço para se qualificar na área de gestão de projetos.
 
 #### Principais Lacunas
-- **Conhecimento de Gestão de Projetos**: A experiência de Yasmim é mais técnica e voltada para telecomunicações, com pouca ênfase em gestão de projetos.
-- **Domínio de Ferramentas de Análise e Elaboração de Dashboards**: Não há menção de experiência com Excel avançado ou Power BI, nem com a elaboração de dashboards.
-- **Certificações em Gestão de Projetos**: Não possui certificações específicas em gestão de projetos como PMP ou CAPM.
+- **Foco em Gestão de Projetos:** A experiência de Rudnei é predominantemente técnica, com pouca evidência de envolvimento direto em gestão de projetos, o que é um requisito essencial para a vaga.
+- **Análise de Dados e Ferramentas:** Não há menção de experiência significativa com análise de dados ou ferramentas como Excel avançado e Power BI, que são cruciais para a posição.
+- **Comunicação e Apresentações:** Embora tenha experiência em interagir com equipes, não há detalhes suficientes sobre habilidades em condução de reuniões ou apresentações formais.
 
-#### Análise de Trajetória Profissional
-- **Cargo Atual**: Técnico de telecomunicação pleno na Vivo desde 01/2022.
-- **Tempo no Cargo Atual**: Aproximadamente 1 ano e 10 meses.
-- **Última Movimentação**: Mudança de empresa, de Atento Brasil para Vivo em 01/2022.
-- **Evidência de Instabilidade**: Não há evidência clara de instabilidade, mas a experiência é mais técnica do que gerencial.
-- **Impacto na Aderência à Vaga**: A experiência técnica pode não ser suficiente para a vaga, que requer forte experiência em gestão de projetos e análise de dados.
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual:** Rudnei está no cargo atual de Engenheiro de Telecomunicações Pleno desde 2010, o que demonstra estabilidade.
+- **Movimentação:** A última movimentação foi uma transferência lateral dentro da mesma empresa em 2022, o que não indica instabilidade.
+- **Impacto na Aderência à Vaga:** A estabilidade no cargo atual é positiva, mas a falta de experiência direta em gestão de projetos e análise de dados pode impactar negativamente a aderência à vaga.
 
 ### Resumo
-Yasmim Aparecida possui uma trajetória profissional mais voltada para o setor técnico de telecomunicações, com experiência em liderança de equipe. No entanto, suas habilidades em gestão de projetos e análise de dados são limitadas, o que pode impactar sua adequação à vaga que requer experiência comprovada em gestão de projetos e domínio de ferramentas de análise.
+Rudnei Marllo Rodrigues da Silva possui uma forte base técnica em telecomunicações, mas apresenta lacunas significativas em relação aos requisitos específicos da vaga de gestão de projetos, especialmente em áreas como análise de dados e uso de ferramentas analíticas. A continuidade em um cargo técnico por um longo período pode indicar uma falta de experiência prática em gestão de projetos, o que é essencial para a posição em questão.
+
+Candidato: victoria_mazei.pdf
+### Análise do Currículo de Victória Mazei
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 80           | 18       | 14.4            |
+| Domínio dos artefatos de projetos                  | 75           | 15       | 11.25           |
+| Conhecimento em análise de dados                   | 70           | 12       | 8.4             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 60           | 12       | 7.2             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 65           | 12       | 7.8             |
+| Comunicação e negociação com stakeholders          | 85           | 10       | 8.5             |
+| Condução de reunião e apresentações                | 80           | 7        | 5.6             |
+| Certificações, MBA ou pós-graduação                | 70           | 7        | 4.9             |
+| Habilidade em construção de material para apresentação| 75         | 7        | 5.25            |
+| **Pontuação Final**                                |              |          | **73.3**        |
+
+#### Principais Pontos Positivos
+- **Experiência em Transformação Digital**: Victória tem experiência significativa em projetos de transformação digital, o que é um diferencial importante para a vaga.
+- **Liderança de Squad e Gerenciamento de Projetos**: Demonstrou habilidades de liderança e gerenciamento em projetos complexos, como o Projeto NFCom.
+- **Comunicação e Negociação**: Forte habilidade em comunicação e negociação com stakeholders, essencial para o sucesso em gestão de projetos.
+- **Certificação em Metodologias Ágeis**: Possui certificação de Product Owner, o que complementa sua experiência em gestão de projetos.
+
+#### Principais Lacunas
+- **Domínio de Ferramentas de Análise**: O conhecimento em Excel é intermediário e não há menção ao uso de Power BI, o que pode ser uma limitação para a vaga.
+- **Certificações em Gestão de Projetos**: Não possui certificações específicas em gestão de projetos como PMP ou CAPM, que são diferenciais para a vaga.
+- **Elaboração de Dashboards e KPIs**: Embora tenha experiência em relatórios, não há menção específica à criação de dashboards ou KPIs, o que é uma exigência da vaga.
+
+#### Análise de Estabilidade e Trajetória Profissional
+- **Tempo no Cargo Atual**: Está no cargo atual de Analista de Projetos Sr desde agosto de 2022.
+- **Última Movimentação**: A última movimentação foi uma movimentação lateral dentro da mesma empresa em outubro de 2024.
+- **Evidência de Instabilidade**: Não há evidências de instabilidade ou movimentação atípica. A trajetória profissional de Victória mostra uma progressão consistente em responsabilidades e complexidade de projetos.
+- **Impacto na Aderência à Vaga**: A estabilidade e a experiência em projetos complexos são positivas para a aderência à vaga, embora a falta de algumas certificações e domínio de ferramentas de análise possam ser áreas a serem desenvolvidas.
+
+### Resumo
+Victória Mazei apresenta um perfil sólido em gestão de projetos, especialmente em ambientes de transformação digital. Sua experiência em liderança de squads e comunicação com stakeholders é um ponto forte. No entanto, para se alinhar completamente com a vaga, seria benéfico aprimorar suas habilidades em ferramentas de análise e buscar certificações específicas em gestão de projetos.
+
+Candidato: vinicius_silva.pdf
+### Análise do Currículo de Vinicius Mota da Silva
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 0            | 18       | 0               |
+| Domínio dos artefatos de projetos                  | 0            | 15       | 0               |
+| Conhecimento em análise de dados                   | 0            | 12       | 0               |
+| Domínio de ferramentas de análise (Excel, Power BI)| 10           | 12       | 1.2             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 0            | 12       | 0               |
+| Comunicação e negociação com stakeholders          | 0            | 10       | 0               |
+| Condução de reunião e apresentações                | 0            | 7        | 0               |
+| Certificações, MBA ou pós-graduação                | 0            | 7        | 0               |
+| Habilidade em construção de material para apresentação| 0          | 7        | 0               |
+| **Pontuação Final**                                |              |          | **1.2**         |
+
+#### Principais Pontos Positivos
+- **Domínio de Ferramentas de Análise**: Possui algum conhecimento em Power BI, embora não seja detalhado.
+
+#### Principais Lacunas
+- **Experiência em Gestão de Projetos**: Não possui experiência comprovada em gestão de projetos ou em condução de projetos de alta complexidade.
+- **Conhecimento em Análise de Dados**: Não há evidências de conhecimento em análise de dados.
+- **Comunicação e Negociação**: Não há informações sobre habilidades de comunicação e negociação com stakeholders.
+- **Certificações e Educação Avançada**: Não possui certificações em gestão de projetos ou educação avançada relevante.
+- **Habilidades de Apresentação**: Não há evidências de habilidades em condução de reuniões ou construção de apresentações.
+
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Está no cargo atual de Técnico de Serviço ao Cliente desde 2016, o que demonstra estabilidade.
+- **Movimentação**: A última movimentação foi uma transferência lateral dentro da mesma empresa em fevereiro de 2025.
+- **Impacto na Aderência à Vaga**: A falta de experiência em gestão de projetos e habilidades analíticas limita significativamente a aderência à vaga.
+
+### Conclusão
+Vinicius Mota da Silva não possui a experiência e as qualificações necessárias para a vaga de gestão de projetos. A pontuação final reflete a falta de alinhamento com os requisitos da vaga, especialmente em áreas críticas como gestão de projetos, análise de dados e comunicação com stakeholders.
+
+Candidato: wellington_barros.pdf
+### Análise do Currículo de Wellington Barros
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 70           | 18       | 12.6            |
+| Domínio dos artefatos de projetos                  | 65           | 15       | 9.75            |
+| Conhecimento em análise de dados                   | 60           | 12       | 7.2             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 50           | 12       | 6.0             |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 60           | 12       | 7.2             |
+| Comunicação e negociação com stakeholders          | 70           | 10       | 7.0             |
+| Condução de reunião e apresentações                | 75           | 7        | 5.25            |
+| Certificações, MBA ou pós-graduação                | 60           | 7        | 4.2             |
+| Habilidade em construção de material para apresentação| 65         | 7        | 4.55            |
+| **Pontuação Final**                                |              |          | **63.75**       |
+
+#### Principais Pontos Positivos
+- **Experiência em Metodologias Ágeis**: Wellington possui certificações relevantes em Scrum e Kanban, além de experiência prática como Scrum Master, o que é valioso para a condução de projetos.
+- **Condução de Reuniões**: Demonstrou habilidade em conduzir reuniões e facilitar a comunicação entre equipes, essencial para a gestão de stakeholders.
+- **Certificações**: Possui várias certificações em metodologias ágeis, o que demonstra comprometimento com o desenvolvimento profissional.
+
+#### Principais Lacunas
+- **Domínio de Ferramentas de Análise**: Não há menção específica ao uso de Power BI ou Excel avançado, o que pode ser uma limitação para a vaga.
+- **Experiência em Gestão de Projetos**: Embora tenha experiência em funções relacionadas, a experiência direta em gestão de projetos não é claramente destacada.
+- **Análise de Dados**: A experiência em análise de dados não é detalhada, o que pode ser uma área de melhoria.
+
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Wellington está no cargo atual de Analista de Inovação Digital Sr desde julho de 2019, o que demonstra estabilidade.
+- **Movimentações Recentes**: A última movimentação foi uma transferência lateral dentro da mesma empresa em junho de 2025, o que não indica instabilidade.
+- **Impacto na Aderência à Vaga**: A estabilidade no cargo atual é positiva, mas a falta de experiência direta em algumas áreas chave pode impactar a aderência à vaga.
+
+### Resumo
+Wellington Barros apresenta um perfil com forte experiência em metodologias ágeis e condução de reuniões, mas pode precisar desenvolver mais habilidades em ferramentas de análise de dados e gestão de projetos para atender plenamente aos requisitos da vaga. A estabilidade no cargo atual é um ponto positivo, mas a falta de experiência direta em algumas áreas pode ser uma limitação.
+
+Candidato: yorhan_olimpio.pdf
+### Análise do Currículo de Yorhan Rhamon Olimpio
+
+#### Tabela de Pontuação
+
+| Critério                                           | Nota (0-100) | Peso (%) | Pontuação Total |
+|----------------------------------------------------|--------------|----------|-----------------|
+| Conhecimento de gestão de projetos                 | 85           | 18       | 15.3            |
+| Domínio dos artefatos de projetos                  | 80           | 15       | 12.0            |
+| Conhecimento em análise de dados                   | 75           | 12       | 9.0             |
+| Domínio de ferramentas de análise (Excel, Power BI)| 85           | 12       | 10.2            |
+| Capacidade de elaborar dashboards, relatórios e KPIs| 80           | 12       | 9.6             |
+| Comunicação e negociação com stakeholders          | 90           | 10       | 9.0             |
+| Condução de reunião e apresentações                | 85           | 7        | 5.95            |
+| Certificações, MBA ou pós-graduação                | 70           | 7        | 4.9             |
+| Habilidade em construção de material para apresentação| 85         | 7        | 5.95            |
+| **Pontuação Final**                                |              |          | **81.9**        |
+
+#### Principais Pontos Positivos
+- **Experiência em Gestão de Projetos**: Yorhan possui uma sólida experiência em gestão de projetos, com destaque para sua atuação na Deloitte e Telefônica Brasil, onde liderou projetos de transformação digital e gestão de riscos.
+- **Domínio de Ferramentas de Análise**: Demonstrou proficiência em Excel e Power BI, essenciais para a vaga.
+- **Comunicação e Negociação**: Forte habilidade de comunicação e negociação com stakeholders, evidenciada por sua experiência em liderar equipes e gerenciar expectativas.
+- **Certificações Relevantes**: Possui certificações em Kanban e Gestão de Produtos, que são valiosas para a função.
+
+#### Principais Lacunas
+- **Certificações em Gestão de Projetos**: Embora possua certificações em Kanban, a ausência de certificações como PMP ou CAPM pode ser uma desvantagem.
+- **Experiência em Análise de Dados**: Embora tenha conhecimento, a experiência prática em análise de dados poderia ser mais robusta.
+
+#### Sinais de Instabilidade ou Padrão Atípico
+- **Tempo no Cargo Atual**: Yorhan está no cargo atual de Analista de Sistemas Pleno desde abril de 2022, o que indica estabilidade.
+- **Diferença de Tempo entre Movimentações**: Não há registro de movimentações recentes dentro da Telefônica Brasil, o que sugere estabilidade.
+- **Impacto na Aderência à Vaga**: A estabilidade no cargo atual e a experiência acumulada em empresas anteriores são positivas para a aderência à vaga.
+
+### Resumo
+Yorhan Rhamon Olimpio apresenta um perfil sólido para a vaga, com experiência relevante em gestão de projetos e habilidades em comunicação e ferramentas de análise. A principal área de melhoria seria a obtenção de certificações adicionais em gestão de projetos. Sua trajetória profissional demonstra estabilidade, o que é um ponto positivo para a função.
 
 === TABELA RESUMO ===
 
 ```
-| Nome do Candidato                  | Pontuação Final |
-|------------------------------------|-----------------|
-| Giovana Roberta Figueredo          | 80.25           |
-| Eliane Sousa Bertao                | 80.15           |
-| Geison Garcia Piovezam             | 79.75           |
-| Jessica Castro                     | 77.25           |
-| Bruna Oliveira Alves               | 76.15           |
-| Raphael Gomes                      | 74.8            |
-| Tiago Dias de Freitas              | 72.1            |
-| Renan Berto                        | 70.55           |
-| Clovis Miranda Felix da Silva      | 70.0            |
-| Mauro Artioli                      | 67.85           |
-| Aline Micheli Ismael de Sousa      | 65.15           |
-| Cinthia Nobrega                    | 65.05           |
-| Thiago Vinicius Padella Rizzo      | 64.65           |
-| Jackson Giovanni Nascimento dos Santos | 60.7        |
-| Ellen Aquíno                       | 58.6            |
-| Claudiana Rodrigues                | 56.55           |
-| Jonas Ferreira Feitoza Rodrigues   | 55.95           |
-| Melissa Silva Nobre                | 49.9            |
-| Hugo Felix                         | 49.55           |
-| Danilo Costa                       | 40.4            |
-| Gabriela Mellatti Gomes            | 38.85           |
-| Yasmim Aparecida                   | 36.9            |
-| Fabiana Gonçalves Silva            | 35.7            |
+| Nome do candidato                | Pontuação final |
+|----------------------------------|-----------------|
+| Raphael Lima Soares de Almeida   | 84.35           |
+| Flavio Silva                     | 82.95           |
+| Pedro Cesar Lins Damaceno        | 81.75           |
+| Yorhan Rhamon Olimpio            | 81.9            |
+| Eliane Sousa Bertão              | 80.85           |
+| Juliana Ianibelli                | 82.15           |
+| Giovana Roberta Figueredo        | 80.25           |
+| Caique Leocadio                  | 79.6            |
+| Jessica Castro                   | 79.7            |
+| Felipe Melo Pereira              | 77.1            |
+| Letícia Midori Yamamoto          | 76.0            |
+| Luiz Dias                        | 75.25           |
+| Erik Fernando Spadotti           | 74.7            |
+| Rafaela Serrano                  | 74.25           |
+| Victoria Mazei                   | 73.3            |
+| Ricardo Morihide Hiju            | 69.05           |
+| Julia Matos                      | 65.35           |
+| Jonathan Faber                   | 64.3            |
+| Wellington Barros                | 63.75           |
+| Eduardo Soares da Costa          | 63.4            |
+| Raphael Gonçalves Fulini         | 62.75           |
+| Patrick Oliveira Hermann da Silva| 62.15           |
+| Luene Pereira Ossuna             | 58.4            |
+| José Diego Silva                 | 57.85           |
+| Caio Augusto Feitosa             | 55.3            |
+| Melissa Silva Nobre              | 50.9            |
+| Angelo Marcos Simão Gonçalves    | 45.0            |
+| Aline Jordao                     | 34.05           |
+| Rudnei Marllo Rodrigues da Silva | 33.7            |
+| Vinicius Mota da Silva           | 1.2             |
 ```
