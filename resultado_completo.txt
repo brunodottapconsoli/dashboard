@@ -1403,37 +1403,103 @@ Yorhan Rhamon Olimpio é o único candidato avaliado até o momento, com uma pon
 === TABELA RESUMO ===
 
 ```
-| Nome do Candidato                | Pontuação Final |
-|----------------------------------|-----------------|
-| Raphael Lima Soares de Almeida   | 85.06           |
-| Flavio Silva                     | 82.95           |
-| Juliana Ianibelli                | 82.15           |
-| Pedro Cesar Lins Damaceno        | 81.75           |
-| Eliane Sousa Bertao              | 81.2            |
-| Caique Leocadio                  | 81.05           |
-| Yorhan Rhamon Olimpio            | 81.05           |
-| Giovana Roberta Figueredo        | 80.25           |
-| Jessica Castro                   | 79.7            |
-| Letícia Midori Yamamoto          | 79.65           |
-| Felipe Melo Pereira              | 79.2            |
-| Rafaela Serrano                  | 74.25           |
-| Luiz Dias                        | 75.25           |
-| Victória Mazei                   | 75.45           |
-| Wellington Barros                | 63.15           |
-| Jonathan Faber                   | 64.3            |
-| Júlia Matos                      | 65.35           |
-| Erik Fernando Spadotti           | 67.9            |
-| Ricardo Morihide Hiju            | 68.05           |
-| Eduardo Soares da Costa          | 62.7            |
-| Raphael Gonçalves Fulini         | 62.75           |
-| Patrick Oliveira Hermann da Silva| 60.85           |
-| José Diego Silva                 | 58.55           |
-| Luene Pereira Ossuna             | 58.4            |
-| Angelo Marcos Simão Gonçalves    | 54              |
-| Caio Augusto Feitosa             | 54.7            |
-| Melissa Silva Nobre              | 49.9            |
-| Aline Jordao                     | 34.05           |
-| Rudnei Marllo Rodrigues da Silva | 35.65           |
-| Flavia Almeida                   | 36.7            |
-| Vinicius Mota da Silva           | 1.2             |
+| Nome do Candidato                         | Pontuação Final   |
+|-------------------------------------------|-------------------|
+| Giovanna Bernardino                       |             89.46 |
+| Raquel Oliveira Souza                     |             89.36 |
+| Clarissa Yebra                            |             88.00 |
+| JESSICA YOHANA                            |             87.35 |
+| Henrique Soares do Nascimento             |             86.64 |
+| Fabiana Pereira de Oliveira               |             86.01 |
+| Rodrigo Fadelli Peres Rodrigues           |             85.95 |
+| Fernanda Carolina Bertola Souza           |             85.66 |
+| Eliane Sousa Bertao                       |             85.52 |
+| Ingrid Cernauski                          |             83.75 |
+| Marcio Eboli                              |             83.37 |
+| Fabiana Vieira de Sousa                   |             82.92 |
+| FERNANDO RUFINO DA SILVA                  |             82.90 |
+| Wangles De Moura e Silva                  |             82.80 |
+| Mariana de Fátima de Carvalho             |             82.55 |
+| Marcio Uhle                               |             82.35 |
+| Jéssica Alexandra Pinho de Sousa Guerra   |             82.13 |
+| Ailton Guido de Paula                     |             81.69 |
+| Danielle de Oliveira Barutti              |             81.24 |
+| JOAO BATISTA DE SOUZA JUNIOR              |             81.14 |
+| LUCINEIA CREUZA SILVA                     |             81.14 |
+| Fábio Leonardo Antonini Gaia              |             80.99 |
+| Ronaldo Luiz de Oliveira                  |             80.96 |
+| Fabiane Alves Brito                       |             80.27 |
+| CV Leticia Gupy                           |             80.07 |
+| Talita Ayumi Tanji                        |             80.07 |
+| Luciano Leite                             |             79.80 |
+| Evenilson Rezende                         |             79.75 |
+| THAIS HELENA OLIVEIRA DA CONCEIÇÃO        |             78.90 |
+| Sidnei Souza                              |             78.31 |
+| Rodrigo Machado                           |             78.15 |
+| Raquel Gomes de Paula Toitio              |             78.10 |
+| Marina Souza                              |             77.89 |
+| Raphaella Lima Ferreira Braga             |             77.87 |
+| Felipe Melo Pereira                       |             77.32 |
+| Matheus Machado                           |             77.20 |
+| JADER RAFAEL ARAUJO ALMEIDA               |             77.07 |
+| Leila Corrêa                              |             76.65 |
+| Manuela Cabral Boveda de Souza            |             76.40 |
+| Fábio Martins                             |             76.04 |
+| Jéssica Adrião                            |             75.75 |
+| Stephaníe Oliveira                        |             75.59 |
+| Jonas Ferreira Feitoza Rodrigues          |             75.32 |
+| Carlos Eduardo Silva                      |             75.21 |
+| Gilberto Ramos                            |             74.70 |
+| WESLEY GOMES ROMERO DOS SANTOS            |             74.61 |
+| Jean Oliveira                             |             74.42 |
+| Bruna Cesar de Souza                      |             74.27 |
+| Natalia Correia Dias                      |             73.76 |
+| Laila Lumy Inoue Nagano                   |             73.20 |
+| Danilo Felipe do Carmo Silveira           |             73.00 |
+| Cristhianne Garcia Mesquita               |             72.81 |
+| Daniela Lisboa Cunha                      |             72.73 |
+| Bruna Moraes de Andrade                   |             72.62 |
+| Thiago Kudse                              |             72.24 |
+| Fernanda Santos                           |             71.65 |
+| Pamela Aparecida Goulart Cunha Dias       |             70.69 |
+| Michele Costa Santos                      |             70.67 |
+| Rafael Conegundes Pereira                 |             70.65 |
+| Felipe Muniz                              |             70.09 |
+| Alex Nascimento Santos                    |             70.01 |
+| Jéssica Pazini                            |             69.82 |
+| Giceli Rodrigues                          |             69.38 |
+| Gabriela Ferreira da Silva                |             69.05 |
+| Cleber Cardozo                            |             68.85 |
+| Cassio Miguel Alves                       |             68.80 |
+| Osmar Allan De Souza                      |             68.21 |
+| Izabela Mumic                             |             68.20 |
+| Tiago Costa                               |             68.19 |
+| Adriano Sofia Prado                       |             66.94 |
+| Kelly Mendes Marcolino                    |             66.52 |
+| Patricia Sobral                           |             65.80 |
+| Kauan Araujo Silva                        |             65.55 |
+| KAREN MIKAELA Chavez                      |             65.52 |
+| Otávio Augusto Saes Busato                |             65.40 |
+| Pedro José Ferraz Ribeiro                 |             64.06 |
+| Alex Bosa                                 |             63.70 |
+| Raissa Machado                            |             63.70 |
+| Keila de Matos Rios                       |             63.40 |
+| Lilian Correia de Sousa                   |             62.59 |
+| Carla Martins Amaral Costa                |             61.61 |
+| Raphael Gomes                             |             61.15 |
+| JACQUELINE APARECIDA DE LIMA FERREIRA     |             60.05 |
+| EMERSON CARLOS PADOVEZE                   |             60.04 |
+| Raisa Junia Ribeiro Gomes                 |             59.10 |
+| Bruno Silva                               |             59.09 |
+| Denise Costa Gomes                        |             58.70 |
+| Flavia Barbosa da Rocha                   |             55.48 |
+| Celia Regina Jandre                       |             55.30 |
+| Taynara Costa                             |             55.20 |
+| Celso Vianna                              |             54.85 |
+| Janaina Barbosa                           |             48.61 |
+| Samuel Lara                               |             44.39 |
+| Paolo Alves da Hora                       |             43.20 |
+| Giselle Lucena Silva                      |             43.19 |
+| Silas SMS                                 |             41.30 |
 ```
+
